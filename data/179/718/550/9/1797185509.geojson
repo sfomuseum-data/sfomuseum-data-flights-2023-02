@@ -1,0 +1,69 @@
+{
+  "id": 1797185509,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-02-01",
+    "date:inception_upper": "2023-02-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-02-01",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2023-02-01",
+    "flysfo:estimated_timestamp": 1675269000,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA2821",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-NRT",
+    "flysfo:scheduled_timestamp": 1675269000,
+    "flysfo:timestamp": 1675269000,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.755744,140.395257,37.617990",
+    "geom:latitude": 36.686867,
+    "geom:longitude": 9.012156999999995,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102541685,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20230201-D-UAL-2821",
+    "sfomuseum:flight_number": [
+      "UAL2821",
+      "UA2821"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1675355076,
+    "wof:geomhash": "b0708fbc9882ec26729f19c3bf135279",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1797185509
+      }
+    ],
+    "wof:id": 1797185509,
+    "wof:involves": [
+      102541685,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1675355076,
+    "wof:name": "UA2821 (SFO-NRT)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-02",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    35.755744,
+    140.395257,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[140.395257,35.755744]],"type":"MultiPoint"}
+}
