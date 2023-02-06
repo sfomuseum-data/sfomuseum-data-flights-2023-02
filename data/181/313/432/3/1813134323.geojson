@@ -1,0 +1,69 @@
+{
+  "id": 1813134323,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-02-05",
+    "date:inception_upper": "2023-02-05",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-02-05",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2023-02-05",
+    "flysfo:estimated_timestamp": 1675644120,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "DL8936",
+    "flysfo:gate": "",
+    "flysfo:journey": "OKC-SFO",
+    "flysfo:scheduled_timestamp": 1675643460,
+    "flysfo:timestamp": 1675644120,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.396691,-97.593893,37.617990",
+    "geom:latitude": 36.5073405,
+    "geom:longitude": -109.982418,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102531811,
+    "sfomuseum:flight_id": "20230205-A-DAL-8936",
+    "sfomuseum:flight_number": [
+      "DAL8936",
+      "DL8936"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1675699666,
+    "wof:geomhash": "7685368f2ace650ddf08145f6ec5f0c3",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1813134323
+      }
+    ],
+    "wof:id": 1813134323,
+    "wof:involves": [
+      102527513,
+      102531811,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1675699666,
+    "wof:name": "DL8936 (OKC-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-02",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    35.396691,
+    -97.593893,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-97.593893,35.396691],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
