@@ -2,10 +2,12 @@
   "id": 1813166351,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2023-02-09",
     "date:inception_upper": "2023-02-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-02-09",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2023-02-09T00:06:11-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,6 +26,7 @@
     "geom:longitude": -98.057846,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "ACA",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618149,
@@ -39,6 +42,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CGUPL",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -92,7 +99,7 @@
       1763588155,
       1159283697
     ],
-    "wof:lastmodified": 1676045861,
+    "wof:lastmodified": 1676046590,
     "wof:name": "AC760 (SFO-YUL)",
     "wof:parent_id": 1763588155,
     "wof:placetype": "custom",
