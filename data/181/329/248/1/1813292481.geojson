@@ -89,13 +89,13 @@
     ],
     "wof:id": 1813292481,
     "wof:involves": [
+      1377564285,
       102527513,
       1159283813,
       1763588137,
-      1377564285,
       102533243
     ],
-    "wof:lastmodified": 1677538042,
+    "wof:lastmodified": 1677539022,
     "wof:name": "AS422 (SFO-TPA)",
     "wof:parent_id": 1763588137,
     "wof:placetype": "custom",

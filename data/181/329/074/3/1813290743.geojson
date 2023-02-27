@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813290743,
     "wof:involves": [
-      1528104577,
       102527513,
       102532929,
       1159285413,
       1763588333,
-      1159283597
+      1159283597,
+      1528104577
     ],
-    "wof:lastmodified": 1677538031,
+    "wof:lastmodified": 1677539010,
     "wof:name": "UA1639 (OGG-SFO)",
     "wof:parent_id": 1763588333,
     "wof:placetype": "custom",

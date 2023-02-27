@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813291071,
     "wof:involves": [
+      1159289985,
       1763588317,
       1159283597,
-      1159289985,
       102527513,
       102532939,
       1159285413
     ],
-    "wof:lastmodified": 1677538033,
+    "wof:lastmodified": 1677539013,
     "wof:name": "UA643 (KOA-SFO)",
     "wof:parent_id": 1763588317,
     "wof:placetype": "custom",

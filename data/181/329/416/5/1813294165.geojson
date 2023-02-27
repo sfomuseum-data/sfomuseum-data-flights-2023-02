@@ -95,13 +95,13 @@
     "wof:id": 1813294165,
     "wof:involves": [
       1159283697,
-      1528104577,
       102532047,
       102527513,
       1159285413,
-      1763588341
+      1763588341,
+      1528104577
     ],
-    "wof:lastmodified": 1677538046,
+    "wof:lastmodified": 1677539027,
     "wof:name": "UA436 (SFO-BWI)",
     "wof:parent_id": 1763588341,
     "wof:placetype": "custom",

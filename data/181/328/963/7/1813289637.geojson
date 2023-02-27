@@ -89,13 +89,13 @@
     ],
     "wof:id": 1813289637,
     "wof:involves": [
-      102527513,
-      102525635,
       1159284261,
       1763588237,
-      1377564285
+      1377564285,
+      102527513,
+      102525635
     ],
-    "wof:lastmodified": 1677538035,
+    "wof:lastmodified": 1677539014,
     "wof:name": "DL469 (DTW-SFO)",
     "wof:parent_id": 1763588237,
     "wof:placetype": "custom",

@@ -96,12 +96,12 @@
     "wof:involves": [
       1763588325,
       1159283597,
-      1159289985,
       102532939,
       102527513,
-      1159285413
+      1159285413,
+      1159289985
     ],
-    "wof:lastmodified": 1677538046,
+    "wof:lastmodified": 1677539027,
     "wof:name": "UA1721 (SFO-KOA)",
     "wof:parent_id": 1763588325,
     "wof:placetype": "custom",

@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813292375,
     "wof:involves": [
-      1377564285,
       102530049,
       102527513,
       1159283813,
       1763588159,
-      1159283849
+      1159283849,
+      1377564285
     ],
-    "wof:lastmodified": 1677538041,
+    "wof:lastmodified": 1677539021,
     "wof:name": "AS292 (SFO-EWR)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813291141,
     "wof:involves": [
-      1159289985,
-      102527513,
       102552389,
       1159285413,
       1763588445,
-      1159286015
+      1159286015,
+      1159289985,
+      102527513
     ],
-    "wof:lastmodified": 1677538034,
+    "wof:lastmodified": 1677539013,
     "wof:name": "UA916 (AKL-SFO)",
     "wof:parent_id": 1763588445,
     "wof:placetype": "custom",

@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813294007,
     "wof:involves": [
+      1528104577,
       102527513,
       1159285413,
       1763588281,
       1159283697,
-      1528104577,
       102530741
     ],
-    "wof:lastmodified": 1677538046,
+    "wof:lastmodified": 1677539027,
     "wof:name": "UA1665 (SFO-BOS)",
     "wof:parent_id": 1763588281,
     "wof:placetype": "custom",

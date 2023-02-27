@@ -90,12 +90,12 @@
     "wof:id": 1813290797,
     "wof:involves": [
       1763588445,
-      1159293215,
       102527513,
       102551593,
-      1159285413
+      1159285413,
+      1159293215
     ],
-    "wof:lastmodified": 1677538031,
+    "wof:lastmodified": 1677539010,
     "wof:name": "UA2 (SIN-SFO)",
     "wof:parent_id": 1763588445,
     "wof:placetype": "custom",
