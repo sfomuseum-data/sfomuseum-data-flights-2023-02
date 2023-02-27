@@ -95,13 +95,13 @@
     "wof:id": 1813288263,
     "wof:involves": [
       1159283849,
-      1528104575,
       1763588201,
       1159284021,
       102527513,
-      102533631
+      102533631,
+      1528104575
     ],
-    "wof:lastmodified": 1677539005,
+    "wof:lastmodified": 1677541151,
     "wof:name": "AA2828 (ORD-SFO)",
     "wof:parent_id": 1763588201,
     "wof:placetype": "custom",

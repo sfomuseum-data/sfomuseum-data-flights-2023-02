@@ -89,13 +89,13 @@
     ],
     "wof:id": 1813289243,
     "wof:involves": [
-      1377564285,
-      102527513,
       102536515,
       1159283813,
-      1763588401
+      1763588401,
+      1377564285,
+      102527513
     ],
-    "wof:lastmodified": 1677539012,
+    "wof:lastmodified": 1677541156,
     "wof:name": "AS9340 (LTO-SFO)",
     "wof:parent_id": 1763588401,
     "wof:placetype": "custom",

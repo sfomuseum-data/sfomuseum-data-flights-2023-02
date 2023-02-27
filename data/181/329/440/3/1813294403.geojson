@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813294403,
     "wof:involves": [
-      1763588445,
+      1159285413,
       1159289985,
+      1763588445,
       1159283697,
       102552389,
-      102527513,
-      1159285413
+      102527513
     ],
-    "wof:lastmodified": 1677539028,
+    "wof:lastmodified": 1677541165,
     "wof:name": "UA917 (SFO-AKL)",
     "wof:parent_id": 1763588445,
     "wof:placetype": "custom",

@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813294045,
     "wof:involves": [
+      1159293215,
       1763588307,
       1159285129,
-      1159293215,
       102533631,
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1677539027,
+    "wof:lastmodified": 1677541164,
     "wof:name": "UA1927 (SFO-ORD)",
     "wof:parent_id": 1763588307,
     "wof:placetype": "custom",

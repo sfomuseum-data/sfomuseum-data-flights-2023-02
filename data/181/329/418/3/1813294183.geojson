@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813294183,
     "wof:involves": [
+      1159285413,
+      1159289407,
       1763588327,
       1159283597,
       102532251,
-      1159289407,
-      102527513,
-      1159285413
+      102527513
     ],
-    "wof:lastmodified": 1677539028,
+    "wof:lastmodified": 1677541165,
     "wof:name": "UA477 (SFO-PDX)",
     "wof:parent_id": 1763588327,
     "wof:placetype": "custom",

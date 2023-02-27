@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813294163,
     "wof:involves": [
-      1528104577,
       102533795,
       102527513,
       1159285413,
       1763588311,
-      1159285749
+      1159285749,
+      1528104577
     ],
-    "wof:lastmodified": 1677539027,
+    "wof:lastmodified": 1677541170,
     "wof:name": "UA433 (SFO-LAX)",
     "wof:parent_id": 1763588311,
     "wof:placetype": "custom",

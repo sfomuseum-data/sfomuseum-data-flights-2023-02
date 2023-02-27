@@ -89,13 +89,13 @@
     ],
     "wof:id": 1813294367,
     "wof:involves": [
+      1763588441,
+      102557783,
       1159289993,
       102527513,
-      1159285413,
-      1763588441,
-      102557783
+      1159285413
     ],
-    "wof:lastmodified": 1677539028,
+    "wof:lastmodified": 1677541165,
     "wof:name": "UA829 (SFO-SYD)",
     "wof:parent_id": 1763588441,
     "wof:placetype": "custom",

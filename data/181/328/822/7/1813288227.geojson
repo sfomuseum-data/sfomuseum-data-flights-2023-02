@@ -95,13 +95,13 @@
     "wof:id": 1813288227,
     "wof:involves": [
       102534365,
-      1159289411,
       1159283849,
       1763588219,
       1159285081,
-      102527513
+      102527513,
+      1159289411
     ],
-    "wof:lastmodified": 1677539005,
+    "wof:lastmodified": 1677541150,
     "wof:name": "AA177 (JFK-SFO)",
     "wof:parent_id": 1763588219,
     "wof:placetype": "custom",

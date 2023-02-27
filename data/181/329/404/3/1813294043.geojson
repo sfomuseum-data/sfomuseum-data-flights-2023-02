@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813294043,
     "wof:involves": [
-      1159289939,
       1763588325,
       1159283697,
       102530049,
       102527513,
-      1159285413
+      1159285413,
+      1159289939
     ],
-    "wof:lastmodified": 1677539027,
+    "wof:lastmodified": 1677541164,
     "wof:name": "UA1896 (SFO-EWR)",
     "wof:parent_id": 1763588325,
     "wof:placetype": "custom",

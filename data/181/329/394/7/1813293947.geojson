@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813293947,
     "wof:involves": [
-      1528104577,
-      102527513,
       1159285413,
       1763588339,
       1159283697,
-      102533795
+      102533795,
+      1528104577,
+      102527513
     ],
-    "wof:lastmodified": 1677539026,
+    "wof:lastmodified": 1677541170,
     "wof:name": "UA1200 (SFO-LAX)",
     "wof:parent_id": 1763588339,
     "wof:placetype": "custom",

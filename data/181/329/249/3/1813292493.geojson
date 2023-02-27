@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813292493,
     "wof:involves": [
+      1377564285,
       102527209,
       102527513,
       1159283813,
       1763588127,
-      1159283849,
-      1377564285
+      1159283849
     ],
-    "wof:lastmodified": 1677539022,
+    "wof:lastmodified": 1677541166,
     "wof:name": "AS634 (SFO-LAS)",
     "wof:parent_id": 1763588127,
     "wof:placetype": "custom",

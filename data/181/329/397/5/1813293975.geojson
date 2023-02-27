@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813293975,
     "wof:involves": [
-      102527513,
       1159285413,
       1763588447,
       1159283697,
       102530049,
-      1159289985
+      1159289985,
+      102527513
     ],
-    "wof:lastmodified": 1677539026,
+    "wof:lastmodified": 1677541170,
     "wof:name": "UA1442 (SFO-EWR)",
     "wof:parent_id": 1763588447,
     "wof:placetype": "custom",

@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813294301,
     "wof:involves": [
+      1159283697,
       1159289993,
       102549057,
       102527513,
       1159285413,
-      1763588441,
-      1159283697
+      1763588441
     ],
-    "wof:lastmodified": 1677539028,
+    "wof:lastmodified": 1677541170,
     "wof:name": "UA58 (SFO-FRA)",
     "wof:parent_id": 1763588441,
     "wof:placetype": "custom",

@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813290793,
     "wof:involves": [
+      1377564289,
       1763588317,
       1779770723,
       102527513,
       102530049,
-      1377564289,
       1159285413
     ],
-    "wof:lastmodified": 1677539010,
+    "wof:lastmodified": 1677541155,
     "wof:name": "UA1991 (EWR-SFO)",
     "wof:parent_id": 1763588317,
     "wof:placetype": "custom",

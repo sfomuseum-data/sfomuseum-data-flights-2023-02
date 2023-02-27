@@ -95,13 +95,13 @@
     "wof:id": 1813289653,
     "wof:involves": [
       1159283627,
-      1377564285,
       102527513,
       102525635,
       1159284261,
-      1763588251
+      1763588251,
+      1377564285
     ],
-    "wof:lastmodified": 1677539014,
+    "wof:lastmodified": 1677541159,
     "wof:name": "DL673 (DTW-SFO)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

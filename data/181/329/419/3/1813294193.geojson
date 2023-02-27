@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813294193,
     "wof:involves": [
-      1528104577,
       102527513,
       1159285413,
       1763588339,
       1159283697,
-      102528817
+      102528817,
+      1528104577
     ],
-    "wof:lastmodified": 1677539028,
+    "wof:lastmodified": 1677541165,
     "wof:name": "UA487 (SFO-IAD)",
     "wof:parent_id": 1763588339,
     "wof:placetype": "custom",

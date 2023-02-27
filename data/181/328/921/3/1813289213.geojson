@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813289213,
     "wof:involves": [
-      102527513,
       102534365,
       1159283813,
       1763588149,
       1159286259,
-      1377564285
+      1377564285,
+      102527513
     ],
-    "wof:lastmodified": 1677539011,
+    "wof:lastmodified": 1677541156,
     "wof:name": "AS39 (JFK-SFO)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",

@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813294167,
     "wof:involves": [
-      1159283917,
       1159289871,
+      1159283917,
       102533269,
       102527513,
       1159285413,
       1763588315
     ],
-    "wof:lastmodified": 1677539027,
+    "wof:lastmodified": 1677541170,
     "wof:name": "UA447 (SFO-SEA)",
     "wof:parent_id": 1763588315,
     "wof:placetype": "custom",

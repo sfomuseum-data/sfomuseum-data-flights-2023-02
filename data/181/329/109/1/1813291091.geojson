@@ -96,12 +96,12 @@
     "wof:involves": [
       102527513,
       102530049,
-      1159289985,
       1159285413,
       1763588333,
-      1159283875
+      1159283875,
+      1159289985
     ],
-    "wof:lastmodified": 1677539013,
+    "wof:lastmodified": 1677541157,
     "wof:name": "UA788 (EWR-SFO)",
     "wof:parent_id": 1763588333,
     "wof:placetype": "custom",

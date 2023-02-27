@@ -91,11 +91,11 @@
     "wof:involves": [
       1159284261,
       1763588237,
-      1377564285,
       102527513,
-      102525635
+      102525635,
+      1377564285
     ],
-    "wof:lastmodified": 1677539014,
+    "wof:lastmodified": 1677541159,
     "wof:name": "DL469 (DTW-SFO)",
     "wof:parent_id": 1763588237,
     "wof:placetype": "custom",
