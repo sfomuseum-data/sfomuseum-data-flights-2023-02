@@ -2,10 +2,12 @@
   "id": 1813327435,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-02-28",
+    "date:cessation_upper": "2023-02-28",
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-02-27",
+    "edtf:cessation": "2023-02-28T07:11:00Z",
+    "edtf:inception": "2023-02-27T19:14:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-02-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 25.5509395,
     "geom:longitude": 11.213139500000004,
     "iata:airline": "UA",
+    "icao:aircraft": "B763",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289965,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102535777,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N660UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KO54353200"
+    },
     "wof:country": "US",
     "wof:created": 1677612660,
     "wof:geomhash": "dda5c67e1aac39b5fe10f27fb362ac64",
@@ -48,9 +61,9 @@
       102535777,
       102527513,
       1159285413,
-      -1
+      1159289965
     ],
-    "wof:lastmodified": 1677612660,
+    "wof:lastmodified": 1677612838,
     "wof:name": "UA2786 (SFO-GUM)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
