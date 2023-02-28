@@ -95,13 +95,13 @@
     "wof:id": 1813323911,
     "wof:involves": [
       1159285413,
-      1377564285,
       1763588281,
       1159283697,
       102527513,
-      102534097
+      102534097,
+      1377564285
     ],
-    "wof:lastmodified": 1677623200,
+    "wof:lastmodified": 1677626469,
     "wof:name": "UA1447 (IAH-SFO)",
     "wof:parent_id": 1763588281,
     "wof:placetype": "custom",

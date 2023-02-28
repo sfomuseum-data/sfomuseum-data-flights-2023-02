@@ -98,12 +98,12 @@
     "wof:involves": [
       102527513,
       1159284583,
-      1159289411,
       1763588183,
       1159283849,
-      102530741
+      102530741,
+      1159289411
     ],
-    "wof:lastmodified": 1677623193,
+    "wof:lastmodified": 1677626462,
     "wof:name": "B6334 (SFO-BOS)",
     "wof:parent_id": 1763588183,
     "wof:placetype": "custom",

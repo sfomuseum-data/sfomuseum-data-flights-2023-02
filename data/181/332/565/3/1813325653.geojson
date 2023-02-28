@@ -96,13 +96,13 @@
     "wof:id": 1813325653,
     "wof:involves": [
       1159286259,
-      1377564285,
       102533795,
       102527513,
       1159283813,
-      1763588145
+      1763588145,
+      1377564285
     ],
-    "wof:lastmodified": 1677623191,
+    "wof:lastmodified": 1677626459,
     "wof:name": "AS1162 (SFO-LAX)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",

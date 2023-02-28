@@ -96,12 +96,12 @@
     "wof:involves": [
       1159283539,
       102526927,
-      1377564285,
       102527513,
       1159284261,
-      1763588249
+      1763588249,
+      1377564285
     ],
-    "wof:lastmodified": 1677623192,
+    "wof:lastmodified": 1677626460,
     "wof:name": "DL690 (SFO-ATL)",
     "wof:parent_id": 1763588249,
     "wof:placetype": "custom",

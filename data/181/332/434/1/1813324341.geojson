@@ -99,13 +99,13 @@
     "wof:id": 1813324341,
     "wof:involves": [
       1159285413,
-      1159289985,
       1763588461,
       1159283597,
       102527513,
-      102549057
+      102549057,
+      1159289985
     ],
-    "wof:lastmodified": 1677623201,
+    "wof:lastmodified": 1677626470,
     "wof:name": "UA927 (FRA-SFO)",
     "wof:parent_id": 1763588461,
     "wof:placetype": "custom",

@@ -96,14 +96,14 @@
     ],
     "wof:id": 1813325673,
     "wof:involves": [
-      1377564285,
       102527513,
       1159283813,
       1763588139,
       1159285043,
-      102534365
+      102534365,
+      1377564285
     ],
-    "wof:lastmodified": 1677623191,
+    "wof:lastmodified": 1677626459,
     "wof:name": "AS20 (SFO-JFK)",
     "wof:parent_id": 1763588139,
     "wof:placetype": "custom",

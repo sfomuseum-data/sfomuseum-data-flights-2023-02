@@ -93,12 +93,12 @@
     "wof:id": 1813327077,
     "wof:involves": [
       102527209,
-      1159289869,
       102527513,
       1159285591,
-      1763588185
+      1763588185,
+      1159289869
     ],
-    "wof:lastmodified": 1677623194,
+    "wof:lastmodified": 1677626463,
     "wof:name": "WN233 (SFO-LAS)",
     "wof:parent_id": 1763588185,
     "wof:placetype": "custom",

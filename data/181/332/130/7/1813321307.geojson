@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813321307,
     "wof:involves": [
-      1159289411,
       102534365,
       1159283849,
       1763588221,
       1159285081,
-      102527513
+      102527513,
+      1159289411
     ],
-    "wof:lastmodified": 1677623183,
+    "wof:lastmodified": 1677626449,
     "wof:name": "AA177 (JFK-SFO)",
     "wof:parent_id": 1763588221,
     "wof:placetype": "custom",

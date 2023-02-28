@@ -96,12 +96,12 @@
     "wof:involves": [
       1763588315,
       1159283597,
-      1159289407,
       102527513,
       102524739,
-      1159285413
+      1159285413,
+      1159289407
     ],
-    "wof:lastmodified": 1677623187,
+    "wof:lastmodified": 1677626454,
     "wof:name": "UA1010 (OMA-SFO)",
     "wof:parent_id": 1763588315,
     "wof:placetype": "custom",
