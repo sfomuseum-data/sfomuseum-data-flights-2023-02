@@ -101,12 +101,12 @@
     "wof:involves": [
       1763588437,
       1159283875,
-      1159289985,
       102530049,
       102527513,
-      1159285413
+      1159285413,
+      1159289985
     ],
-    "wof:lastmodified": 1677620145,
+    "wof:lastmodified": 1677621157,
     "wof:name": "UA1225 (SFO-EWR)",
     "wof:parent_id": 1763588437,
     "wof:placetype": "custom",

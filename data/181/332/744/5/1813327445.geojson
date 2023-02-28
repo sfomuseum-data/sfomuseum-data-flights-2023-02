@@ -96,14 +96,14 @@
     ],
     "wof:id": 1813327445,
     "wof:involves": [
+      1159289407,
       102527513,
       1159285413,
       1763588289,
-      1159289407,
       1159283917,
       102528541
     ],
-    "wof:lastmodified": 1677620138,
+    "wof:lastmodified": 1677621170,
     "wof:name": "UA308 (SFO-DFW)",
     "wof:parent_id": 1763588289,
     "wof:placetype": "custom",

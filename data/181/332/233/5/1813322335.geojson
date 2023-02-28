@@ -96,12 +96,12 @@
     "wof:involves": [
       102527513,
       102530049,
-      1377564285,
       1159283813,
       1763588159,
-      1159283849
+      1159283849,
+      1377564285
     ],
-    "wof:lastmodified": 1677620142,
+    "wof:lastmodified": 1677621174,
     "wof:name": "AS295 (EWR-SFO)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

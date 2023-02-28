@@ -58,12 +58,12 @@
     ],
     "wof:id": 1813327435,
     "wof:involves": [
-      102527513,
-      1159285413,
+      102535777,
       1159289965,
-      102535777
+      102527513,
+      1159285413
     ],
-    "wof:lastmodified": 1677620138,
+    "wof:lastmodified": 1677621170,
     "wof:name": "UA2786 (SFO-GUM)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -94,13 +94,13 @@
     ],
     "wof:id": 1813327699,
     "wof:involves": [
+      1159289985,
       1159285413,
       1763588447,
-      1159289985,
       102542687,
       102527513
     ],
-    "wof:lastmodified": 1677620139,
+    "wof:lastmodified": 1677621171,
     "wof:name": "UA954 (SFO-TLV)",
     "wof:parent_id": 1763588447,
     "wof:placetype": "custom",

@@ -95,14 +95,14 @@
     ],
     "wof:id": 1813327633,
     "wof:involves": [
-      1159289985,
       1159285413,
       1763588333,
       1159283597,
       102532929,
-      102527513
+      102527513,
+      1159289985
     ],
-    "wof:lastmodified": 1677620139,
+    "wof:lastmodified": 1677621171,
     "wof:name": "UA694 (SFO-OGG)",
     "wof:parent_id": 1763588333,
     "wof:placetype": "custom",

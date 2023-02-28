@@ -96,12 +96,12 @@
     "wof:involves": [
       102533631,
       1159285413,
-      1159289945,
       1763588321,
       1159283597,
-      102527513
+      102527513,
+      1159289945
     ],
-    "wof:lastmodified": 1677620129,
+    "wof:lastmodified": 1677621161,
     "wof:name": "UA1836 (ORD-SFO)",
     "wof:parent_id": 1763588321,
     "wof:placetype": "custom",
