@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813324103,
     "wof:involves": [
+      1159285413,
+      1159289945,
       1763588317,
       1159283875,
       102527513,
-      1159289945,
-      102531189,
-      1159285413
+      102531189
     ],
-    "wof:lastmodified": 1677621162,
+    "wof:lastmodified": 1677623188,
     "wof:name": "UA360 (DEN-SFO)",
     "wof:parent_id": 1763588317,
     "wof:placetype": "custom",

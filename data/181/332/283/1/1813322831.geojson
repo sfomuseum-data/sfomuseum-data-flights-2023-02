@@ -99,12 +99,12 @@
     "wof:involves": [
       1159284261,
       1763588251,
-      1159289939,
       1159283627,
       102527513,
-      102534365
+      102534365,
+      1159289939
     ],
-    "wof:lastmodified": 1677621174,
+    "wof:lastmodified": 1677623199,
     "wof:name": "DL627 (JFK-SFO)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

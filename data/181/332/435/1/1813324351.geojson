@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813324351,
     "wof:involves": [
-      1159289985,
-      1159285413,
       1763588445,
       1377675597,
       102527513,
-      102544459
+      102544459,
+      1159289985,
+      1159285413
     ],
-    "wof:lastmodified": 1677621176,
+    "wof:lastmodified": 1677623201,
     "wof:name": "UA984 (CDG-SFO)",
     "wof:parent_id": 1763588445,
     "wof:placetype": "custom",

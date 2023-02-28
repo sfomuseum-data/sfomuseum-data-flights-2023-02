@@ -92,11 +92,11 @@
     "wof:involves": [
       102527513,
       102532929,
-      1377564297,
       1159284489,
-      1763588419
+      1763588419,
+      1377564297
     ],
-    "wof:lastmodified": 1677621159,
+    "wof:lastmodified": 1677623185,
     "wof:name": "HA42 (OGG-SFO)",
     "wof:parent_id": 1763588419,
     "wof:placetype": "custom",

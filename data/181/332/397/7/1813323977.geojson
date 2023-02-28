@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813323977,
     "wof:involves": [
+      1159289945,
       102533631,
       1159285413,
       1763588321,
       1159283597,
-      102527513,
-      1159289945
+      102527513
     ],
-    "wof:lastmodified": 1677621161,
+    "wof:lastmodified": 1677623187,
     "wof:name": "UA1836 (ORD-SFO)",
     "wof:parent_id": 1763588321,
     "wof:placetype": "custom",

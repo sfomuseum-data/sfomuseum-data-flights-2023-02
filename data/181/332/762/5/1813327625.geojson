@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813327625,
     "wof:involves": [
-      1159289871,
-      102527513,
       1159285413,
       1763588325,
       1159283697,
-      102532251
+      102532251,
+      1159289871,
+      102527513
     ],
-    "wof:lastmodified": 1677621171,
+    "wof:lastmodified": 1677623196,
     "wof:name": "UA605 (SFO-PDX)",
     "wof:parent_id": 1763588325,
     "wof:placetype": "custom",

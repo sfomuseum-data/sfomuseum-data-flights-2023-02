@@ -98,14 +98,14 @@
     ],
     "wof:id": 1813324057,
     "wof:involves": [
-      1159285413,
       1763588319,
       1159283697,
       102527513,
       102532251,
-      1159289871
+      1159289871,
+      1159285413
     ],
-    "wof:lastmodified": 1677621162,
+    "wof:lastmodified": 1677623188,
     "wof:name": "UA2482 (PDX-SFO)",
     "wof:parent_id": 1763588319,
     "wof:placetype": "custom",

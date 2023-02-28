@@ -95,13 +95,13 @@
     "wof:id": 1813323901,
     "wof:involves": [
       1763588449,
-      1159289985,
       1779770723,
       102527513,
       102530049,
-      1159285413
+      1159285413,
+      1159289985
     ],
-    "wof:lastmodified": 1677621175,
+    "wof:lastmodified": 1677623200,
     "wof:name": "UA1312 (EWR-SFO)",
     "wof:parent_id": 1763588449,
     "wof:placetype": "custom",

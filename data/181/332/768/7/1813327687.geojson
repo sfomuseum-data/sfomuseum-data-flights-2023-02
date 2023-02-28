@@ -98,14 +98,14 @@
     ],
     "wof:id": 1813327687,
     "wof:involves": [
-      102527513,
       1159285413,
       1763588441,
       1159283917,
+      102556451,
       1159293215,
-      102556451
+      102527513
     ],
-    "wof:lastmodified": 1677621171,
+    "wof:lastmodified": 1677623196,
     "wof:name": "UA893 (SFO-ICN)",
     "wof:parent_id": 1763588441,
     "wof:placetype": "custom",
