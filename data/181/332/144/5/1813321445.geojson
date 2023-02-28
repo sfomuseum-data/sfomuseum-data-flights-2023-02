@@ -2,11 +2,11 @@
   "id": 1813321445,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-28",
-    "date:cessation_upper": "2023-02-28",
+    "date:cessation_lower": "2023-02-27",
+    "date:cessation_upper": "2023-02-27",
     "date:inception_lower": "2023-02-28",
     "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "2023-02-28T05:27:44Z",
+    "edtf:cessation": "2023-02-27T13:27:16-08:00",
     "edtf:inception": "2023-02-28T04:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
@@ -99,14 +99,14 @@
     ],
     "wof:id": 1813321445,
     "wof:involves": [
+      1159289871,
       1763588219,
       1159284021,
       102527513,
       102533795,
-      1159283849,
-      1159289871
+      1159283849
     ],
-    "wof:lastmodified": 1677617899,
+    "wof:lastmodified": 1677619244,
     "wof:name": "AA891 (LAX-SFO)",
     "wof:parent_id": 1763588219,
     "wof:placetype": "custom",

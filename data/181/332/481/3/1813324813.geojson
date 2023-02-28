@@ -7,7 +7,7 @@
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
     "edtf:cessation": "2023-02-28T01:19:00Z",
-    "edtf:inception": "2023-02-27T23:54:00Z",
+    "edtf:inception": "2023-02-27T07:58:31-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -99,14 +99,14 @@
     ],
     "wof:id": 1813324813,
     "wof:involves": [
+      102527513,
+      1159283849,
+      1159289871,
       1763588207,
       1159284021,
-      102526751,
-      102527513,
-      1159289871,
-      1159283849
+      102526751
     ],
-    "wof:lastmodified": 1677617891,
+    "wof:lastmodified": 1677619236,
     "wof:name": "AA843 (SFO-PHX)",
     "wof:parent_id": 1763588207,
     "wof:placetype": "custom",

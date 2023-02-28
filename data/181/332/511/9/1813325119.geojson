@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "1970-01-01",
     "date:cessation_upper": "1970-01-01",
-    "date:inception_lower": "1970-01-01",
-    "date:inception_upper": "1970-01-01",
+    "date:inception_lower": "2023-02-27",
+    "date:inception_upper": "2023-02-27",
     "edtf:cessation": "1970-01-01T00:00:00Z",
-    "edtf:inception": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2023-02-27T01:16:21-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813325119,
     "wof:involves": [
+      1159283597,
+      1528104575,
       1763588155,
       1159285749,
-      1528104575,
       102555307,
-      102527513,
-      1159283597
+      102527513
     ],
-    "wof:lastmodified": 1677617892,
+    "wof:lastmodified": 1677619236,
     "wof:name": "AC563 (SFO-YVR)",
     "wof:parent_id": 1763588155,
     "wof:placetype": "custom",

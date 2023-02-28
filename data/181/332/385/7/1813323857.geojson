@@ -2,11 +2,11 @@
   "id": 1813323857,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-28",
-    "date:cessation_upper": "2023-02-28",
+    "date:cessation_lower": "2023-02-27",
+    "date:cessation_upper": "2023-02-27",
     "date:inception_lower": "2023-02-28",
     "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "2023-02-28T06:23:00Z",
+    "edtf:cessation": "2023-02-27T14:23:06-08:00",
     "edtf:inception": "2023-02-28T04:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -98,14 +98,14 @@
     ],
     "wof:id": 1813323857,
     "wof:involves": [
-      1159289871,
-      1159285413,
       1763588353,
       1159283697,
       102527513,
-      102533269
+      102533269,
+      1159289871,
+      1159285413
     ],
-    "wof:lastmodified": 1677617888,
+    "wof:lastmodified": 1677619232,
     "wof:name": "UA1061 (SEA-SFO)",
     "wof:parent_id": 1763588353,
     "wof:placetype": "custom",

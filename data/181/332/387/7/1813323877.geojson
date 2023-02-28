@@ -2,11 +2,11 @@
   "id": 1813323877,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-28",
-    "date:cessation_upper": "2023-02-28",
+    "date:cessation_lower": "2023-02-27",
+    "date:cessation_upper": "2023-02-27",
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
-    "edtf:cessation": "2023-02-28T05:31:00Z",
+    "edtf:cessation": "2023-02-27T13:31:41-08:00",
     "edtf:inception": "2023-02-27T23:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -100,14 +100,14 @@
     ],
     "wof:id": 1813323877,
     "wof:involves": [
+      1159289985,
       102530049,
       1159285413,
       1763588333,
       1159286015,
-      102527513,
-      1159289985
+      102527513
     ],
-    "wof:lastmodified": 1677617888,
+    "wof:lastmodified": 1677619232,
     "wof:name": "UA1209 (EWR-SFO)",
     "wof:parent_id": 1763588333,
     "wof:placetype": "custom",

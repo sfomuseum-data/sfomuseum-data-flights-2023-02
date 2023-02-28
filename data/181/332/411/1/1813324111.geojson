@@ -2,11 +2,11 @@
   "id": 1813324111,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-28",
-    "date:cessation_upper": "2023-02-28",
+    "date:cessation_lower": "2023-02-27",
+    "date:cessation_upper": "2023-02-27",
     "date:inception_lower": "2023-02-28",
     "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "2023-02-28T03:18:00Z",
+    "edtf:cessation": "2023-02-27T11:18:26-08:00",
     "edtf:inception": "2023-02-28T00:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -98,14 +98,14 @@
     ],
     "wof:id": 1813324111,
     "wof:involves": [
+      1763588345,
       1377564285,
       1159283697,
       102527513,
       102531189,
-      1159285413,
-      1763588345
+      1159285413
     ],
-    "wof:lastmodified": 1677617904,
+    "wof:lastmodified": 1677619248,
     "wof:name": "UA424 (DEN-SFO)",
     "wof:parent_id": 1763588345,
     "wof:placetype": "custom",

@@ -2,11 +2,11 @@
   "id": 1813323337,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1970-01-01",
-    "date:cessation_upper": "1970-01-01",
+    "date:cessation_lower": "2023-02-27",
+    "date:cessation_upper": "2023-02-27",
     "date:inception_lower": "1970-01-01",
     "date:inception_upper": "1970-01-01",
-    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:cessation": "2023-02-27T02:51:32-08:00",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
@@ -89,13 +89,13 @@
     ],
     "wof:id": 1813323337,
     "wof:involves": [
-      1763588147,
-      102527513,
-      1159292325,
       102532277,
-      1763552131
+      1763552131,
+      1159292325,
+      1763588147,
+      102527513
     ],
-    "wof:lastmodified": 1677617887,
+    "wof:lastmodified": 1677619231,
     "wof:name": "MX600 (PVU-SFO)",
     "wof:parent_id": 1763588147,
     "wof:placetype": "custom",

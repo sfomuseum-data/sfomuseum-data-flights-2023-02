@@ -101,12 +101,12 @@
     "wof:involves": [
       102534365,
       102527513,
-      1159289411,
       1159283849,
       1763588221,
-      1159284583
+      1159284583,
+      1159289411
     ],
-    "wof:lastmodified": 1677617891,
+    "wof:lastmodified": 1677619236,
     "wof:name": "AA276 (SFO-JFK)",
     "wof:parent_id": 1763588221,
     "wof:placetype": "custom",

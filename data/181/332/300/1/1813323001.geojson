@@ -2,11 +2,11 @@
   "id": 1813323001,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-28",
-    "date:cessation_upper": "2023-02-28",
+    "date:cessation_lower": "2023-02-27",
+    "date:cessation_upper": "2023-02-27",
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
-    "edtf:cessation": "2023-02-28T01:29:06Z",
+    "edtf:cessation": "2023-02-27T09:28:24-08:00",
     "edtf:inception": "2023-02-27T17:43:54Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "BF",
@@ -102,7 +102,7 @@
       1763588431,
       1779782741
     ],
-    "wof:lastmodified": 1677617902,
+    "wof:lastmodified": 1677619247,
     "wof:name": "BF711 (PPT-SFO)",
     "wof:parent_id": 1763588431,
     "wof:placetype": "custom",

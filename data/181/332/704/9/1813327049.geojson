@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "1970-01-01",
     "date:cessation_upper": "1970-01-01",
-    "date:inception_lower": "1970-01-01",
-    "date:inception_upper": "1970-01-01",
+    "date:inception_lower": "2023-02-27",
+    "date:inception_upper": "2023-02-27",
     "edtf:cessation": "1970-01-01T00:00:00Z",
-    "edtf:inception": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2023-02-27T03:05:26-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2023-02-27",
@@ -89,13 +89,13 @@
     ],
     "wof:id": 1813327049,
     "wof:involves": [
-      1159289869,
-      1159285591,
       1763588191,
       1746879083,
-      102527513
+      102527513,
+      1159289869,
+      1159285591
     ],
-    "wof:lastmodified": 1677617896,
+    "wof:lastmodified": 1677619241,
     "wof:name": "WN1291 (SFO-BUR)",
     "wof:parent_id": 1763588191,
     "wof:placetype": "custom",

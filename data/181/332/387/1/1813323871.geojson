@@ -2,11 +2,11 @@
   "id": 1813323871,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-28",
-    "date:cessation_upper": "2023-02-28",
+    "date:cessation_lower": "2023-02-27",
+    "date:cessation_upper": "2023-02-27",
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
-    "edtf:cessation": "2023-02-28T00:47:00Z",
+    "edtf:cessation": "2023-02-27T08:47:26-08:00",
     "edtf:inception": "2023-02-27T23:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -100,13 +100,13 @@
     "wof:id": 1813323871,
     "wof:involves": [
       102526751,
-      1159289871,
       1159285413,
       1763588329,
       1159283597,
-      102527513
+      102527513,
+      1159289871
     ],
-    "wof:lastmodified": 1677617903,
+    "wof:lastmodified": 1677619248,
     "wof:name": "UA1152 (PHX-SFO)",
     "wof:parent_id": 1763588329,
     "wof:placetype": "custom",

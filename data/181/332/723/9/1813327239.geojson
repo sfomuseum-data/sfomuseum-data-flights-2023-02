@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2023-02-28",
     "date:cessation_upper": "2023-02-28",
-    "date:inception_lower": "2023-02-28",
-    "date:inception_upper": "2023-02-28",
+    "date:inception_lower": "2023-02-27",
+    "date:inception_upper": "2023-02-27",
     "edtf:cessation": "2023-02-28T05:02:00Z",
-    "edtf:inception": "2023-02-28T03:11:00Z",
+    "edtf:inception": "2023-02-27T11:11:05-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -105,7 +105,7 @@
       1159285413,
       1763588463
     ],
-    "wof:lastmodified": 1677617896,
+    "wof:lastmodified": 1677619241,
     "wof:name": "UA1216 (SFO-DEN)",
     "wof:parent_id": 1763588463,
     "wof:placetype": "custom",

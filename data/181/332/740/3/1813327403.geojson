@@ -7,7 +7,7 @@
     "date:inception_lower": "2023-02-28",
     "date:inception_upper": "2023-02-28",
     "edtf:cessation": "2023-02-28T11:23:00Z",
-    "edtf:inception": "2023-02-28T08:31:00Z",
+    "edtf:inception": "2023-02-27T16:31:05-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -99,14 +99,14 @@
     ],
     "wof:id": 1813327403,
     "wof:involves": [
+      102521851,
+      1159289871,
       102527513,
       1159285413,
       1763588315,
-      1159283597,
-      102521851,
-      1159289871
+      1159283597
     ],
-    "wof:lastmodified": 1677617897,
+    "wof:lastmodified": 1677619242,
     "wof:name": "UA2423 (SFO-AUS)",
     "wof:parent_id": 1763588315,
     "wof:placetype": "custom",

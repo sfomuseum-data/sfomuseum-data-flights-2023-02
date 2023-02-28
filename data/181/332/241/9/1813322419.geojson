@@ -2,11 +2,11 @@
   "id": 1813322419,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-28",
-    "date:cessation_upper": "2023-02-28",
+    "date:cessation_lower": "2023-02-27",
+    "date:cessation_upper": "2023-02-27",
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
-    "edtf:cessation": "2023-02-28T05:31:54Z",
+    "edtf:cessation": "2023-02-27T13:31:22-08:00",
     "edtf:inception": "2023-02-27T22:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
@@ -95,14 +95,14 @@
     ],
     "wof:id": 1813322419,
     "wof:involves": [
+      1377564285,
       102527513,
       102530741,
       1159283813,
       1763588137,
-      1159283849,
-      1377564285
+      1159283849
     ],
-    "wof:lastmodified": 1677617884,
+    "wof:lastmodified": 1677619229,
     "wof:name": "AS356 (BOS-SFO)",
     "wof:parent_id": 1763588137,
     "wof:placetype": "custom",

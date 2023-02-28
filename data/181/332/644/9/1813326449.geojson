@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "1970-01-01",
     "date:cessation_upper": "1970-01-01",
-    "date:inception_lower": "1970-01-01",
-    "date:inception_upper": "1970-01-01",
+    "date:inception_lower": "2023-02-27",
+    "date:inception_upper": "2023-02-27",
     "edtf:cessation": "1970-01-01T00:00:00Z",
-    "edtf:inception": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2023-02-27T02:01:57-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "HA",
     "flysfo:date": "2023-02-27",
@@ -96,7 +96,7 @@
       1159284489,
       1763588267
     ],
-    "wof:lastmodified": 1677617895,
+    "wof:lastmodified": 1677619239,
     "wof:name": "HA41 (SFO-OGG)",
     "wof:parent_id": 1763588267,
     "wof:placetype": "custom",

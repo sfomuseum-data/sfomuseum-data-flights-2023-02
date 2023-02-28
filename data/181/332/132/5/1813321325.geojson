@@ -2,11 +2,11 @@
   "id": 1813321325,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-28",
-    "date:cessation_upper": "2023-02-28",
+    "date:cessation_lower": "2023-02-27",
+    "date:cessation_upper": "2023-02-27",
     "date:inception_lower": "2023-02-28",
     "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "2023-02-28T05:57:00Z",
+    "edtf:cessation": "2023-02-27T13:57:49-08:00",
     "edtf:inception": "2023-02-28T00:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
@@ -92,13 +92,13 @@
     ],
     "wof:id": 1813321325,
     "wof:involves": [
+      102527513,
+      102528659,
       1377564297,
       1159283849,
-      1763588207,
-      102527513,
-      102528659
+      1763588207
     ],
-    "wof:lastmodified": 1677617884,
+    "wof:lastmodified": 1677619228,
     "wof:name": "AA2126 (CLT-SFO)",
     "wof:parent_id": 1763588207,
     "wof:placetype": "custom",

@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2023-02-28",
     "date:cessation_upper": "2023-02-28",
-    "date:inception_lower": "2023-02-28",
-    "date:inception_upper": "2023-02-28",
+    "date:inception_lower": "2023-02-27",
+    "date:inception_upper": "2023-02-27",
     "edtf:cessation": "2023-02-28T10:07:00Z",
-    "edtf:inception": "2023-02-28T06:36:00Z",
+    "edtf:inception": "2023-02-27T14:36:16-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2023-02-27",
@@ -93,13 +93,13 @@
     ],
     "wof:id": 1813326123,
     "wof:involves": [
-      1377564285,
-      1159284261,
       1763588243,
       102525635,
-      102527513
+      102527513,
+      1377564285,
+      1159284261
     ],
-    "wof:lastmodified": 1677617894,
+    "wof:lastmodified": 1677619239,
     "wof:name": "DL400 (SFO-DTW)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

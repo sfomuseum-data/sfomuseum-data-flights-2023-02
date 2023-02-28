@@ -7,7 +7,7 @@
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
     "edtf:cessation": "2023-02-28T02:48:59Z",
-    "edtf:inception": "2023-02-27T21:57:00Z",
+    "edtf:inception": "2023-02-27T05:57:31-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -100,13 +100,13 @@
     "wof:id": 1813324715,
     "wof:involves": [
       1763588219,
-      1528104575,
       1159284021,
       102531023,
       102527513,
-      1159283849
+      1159283849,
+      1528104575
     ],
-    "wof:lastmodified": 1677617891,
+    "wof:lastmodified": 1677619235,
     "wof:name": "AA2620 (SFO-MIA)",
     "wof:parent_id": 1763588219,
     "wof:placetype": "custom",

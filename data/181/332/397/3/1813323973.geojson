@@ -2,11 +2,11 @@
   "id": 1813323973,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-28",
-    "date:cessation_upper": "2023-02-28",
+    "date:cessation_lower": "2023-02-27",
+    "date:cessation_upper": "2023-02-27",
     "date:inception_lower": "2023-02-28",
     "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "2023-02-28T06:03:00Z",
+    "edtf:cessation": "2023-02-27T14:03:37-08:00",
     "edtf:inception": "2023-02-28T00:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -99,12 +99,12 @@
     "wof:involves": [
       1159285413,
       1763588341,
-      1528104577,
       1159285485,
       102527513,
-      102528779
+      102528779,
+      1528104577
     ],
-    "wof:lastmodified": 1677617888,
+    "wof:lastmodified": 1677619233,
     "wof:name": "UA1769 (RDU-SFO)",
     "wof:parent_id": 1763588341,
     "wof:placetype": "custom",

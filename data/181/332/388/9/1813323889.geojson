@@ -2,11 +2,11 @@
   "id": 1813323889,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-28",
-    "date:cessation_upper": "2023-02-28",
+    "date:cessation_lower": "2023-02-27",
+    "date:cessation_upper": "2023-02-27",
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
-    "edtf:cessation": "2023-02-28T01:54:00Z",
+    "edtf:cessation": "2023-02-27T09:53:56-08:00",
     "edtf:inception": "2023-02-27T22:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -99,14 +99,14 @@
     ],
     "wof:id": 1813323889,
     "wof:involves": [
-      1159283597,
       102527513,
       102536481,
-      1159292085,
       1159285413,
-      1763588443
+      1763588443,
+      1159292085,
+      1159283597
     ],
-    "wof:lastmodified": 1677617888,
+    "wof:lastmodified": 1677619232,
     "wof:name": "UA1243 (PVR-SFO)",
     "wof:parent_id": 1763588443,
     "wof:placetype": "custom",

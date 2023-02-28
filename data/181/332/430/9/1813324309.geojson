@@ -2,11 +2,11 @@
   "id": 1813324309,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-28",
-    "date:cessation_upper": "2023-02-28",
+    "date:cessation_lower": "2023-02-27",
+    "date:cessation_upper": "2023-02-27",
     "date:inception_lower": "2023-02-28",
     "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "2023-02-28T17:57:00Z",
+    "edtf:cessation": "2023-02-27T00:40:50-08:00",
     "edtf:inception": "2023-02-28T09:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -106,7 +106,7 @@
       1159285413,
       1763588437
     ],
-    "wof:lastmodified": 1677617890,
+    "wof:lastmodified": 1677619235,
     "wof:name": "UA838 (NRT-SFO)",
     "wof:parent_id": 1763588437,
     "wof:placetype": "custom",

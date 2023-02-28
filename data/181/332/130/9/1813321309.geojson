@@ -96,12 +96,12 @@
     "wof:id": 1813321309,
     "wof:involves": [
       102528659,
-      1159289411,
       1159283849,
       1763588209,
-      102527513
+      102527513,
+      1159289411
     ],
-    "wof:lastmodified": 1677617884,
+    "wof:lastmodified": 1677619227,
     "wof:name": "AA1783 (CLT-SFO)",
     "wof:parent_id": 1763588209,
     "wof:placetype": "custom",

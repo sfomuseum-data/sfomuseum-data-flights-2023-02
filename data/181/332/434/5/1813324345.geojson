@@ -6,7 +6,7 @@
     "date:cessation_upper": "2023-02-28",
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
-    "edtf:cessation": "2023-02-28T14:02:00Z",
+    "edtf:cessation": "2023-02-27T22:02:06-08:00",
     "edtf:inception": "2023-02-27T23:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -95,13 +95,13 @@
     ],
     "wof:id": 1813324345,
     "wof:involves": [
-      1159289985,
       102527513,
       102542687,
       1159285413,
-      1763588437
+      1763588437,
+      1159289985
     ],
-    "wof:lastmodified": 1677617890,
+    "wof:lastmodified": 1677619235,
     "wof:name": "UA955 (TLV-SFO)",
     "wof:parent_id": 1763588437,
     "wof:placetype": "custom",

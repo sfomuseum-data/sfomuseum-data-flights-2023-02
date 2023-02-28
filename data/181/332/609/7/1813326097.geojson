@@ -7,7 +7,7 @@
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
     "edtf:cessation": "2023-02-27T21:54:00Z",
-    "edtf:inception": "2023-02-27T20:56:00Z",
+    "edtf:inception": "2023-02-27T04:57:02-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -97,14 +97,14 @@
     ],
     "wof:id": 1813326097,
     "wof:involves": [
-      102533795,
       102527513,
       1159284261,
-      1159289407,
       1763588255,
-      1159283539
+      1159283539,
+      1159289407,
+      102533795
     ],
-    "wof:lastmodified": 1677617894,
+    "wof:lastmodified": 1677619238,
     "wof:name": "DL2581 (SFO-LAX)",
     "wof:parent_id": 1763588255,
     "wof:placetype": "custom",

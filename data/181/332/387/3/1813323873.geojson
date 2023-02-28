@@ -2,11 +2,11 @@
   "id": 1813323873,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-28",
-    "date:cessation_upper": "2023-02-28",
+    "date:cessation_lower": "2023-02-27",
+    "date:cessation_upper": "2023-02-27",
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
-    "edtf:cessation": "2023-02-28T01:18:00Z",
+    "edtf:cessation": "2023-02-27T09:18:37-08:00",
     "edtf:inception": "2023-02-27T19:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -101,7 +101,7 @@
       102536223,
       1377564285
     ],
-    "wof:lastmodified": 1677617888,
+    "wof:lastmodified": 1677619232,
     "wof:name": "UA1159 (CUN-SFO)",
     "wof:parent_id": 1763588459,
     "wof:placetype": "custom",

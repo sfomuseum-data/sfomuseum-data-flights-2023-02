@@ -6,7 +6,7 @@
     "date:cessation_upper": "2023-02-28",
     "date:inception_lower": "2023-02-28",
     "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "2023-02-28T15:57:00Z",
+    "edtf:cessation": "2023-02-27T23:57:15-08:00",
     "edtf:inception": "2023-02-28T02:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -106,7 +106,7 @@
       1763588441,
       1159283697
     ],
-    "wof:lastmodified": 1677617904,
+    "wof:lastmodified": 1677619248,
     "wof:name": "UA870 (SYD-SFO)",
     "wof:parent_id": 1763588441,
     "wof:placetype": "custom",

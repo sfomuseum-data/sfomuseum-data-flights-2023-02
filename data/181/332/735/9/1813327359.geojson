@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2023-02-28",
     "date:cessation_upper": "2023-02-28",
-    "date:inception_lower": "2023-02-28",
-    "date:inception_upper": "2023-02-28",
+    "date:inception_lower": "2023-02-27",
+    "date:inception_upper": "2023-02-27",
     "edtf:cessation": "2023-02-28T11:34:00Z",
-    "edtf:inception": "2023-02-28T07:16:00Z",
+    "edtf:inception": "2023-02-27T15:16:17-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -99,14 +99,14 @@
     ],
     "wof:id": 1813327359,
     "wof:involves": [
+      102530049,
+      1159289985,
       102527513,
       1159285413,
       1763588307,
-      1159283697,
-      102530049,
-      1159289985
+      1159283697
     ],
-    "wof:lastmodified": 1677617897,
+    "wof:lastmodified": 1677619242,
     "wof:name": "UA2059 (SFO-EWR)",
     "wof:parent_id": 1763588307,
     "wof:placetype": "custom",

@@ -2,11 +2,11 @@
   "id": 1813322801,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1970-01-01",
-    "date:cessation_upper": "1970-01-01",
+    "date:cessation_lower": "2023-02-28",
+    "date:cessation_upper": "2023-02-28",
     "date:inception_lower": "1970-01-01",
     "date:inception_upper": "1970-01-01",
-    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:cessation": "2023-02-27T23:11:33-08:00",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
@@ -101,7 +101,7 @@
       1763588255,
       1159284153
     ],
-    "wof:lastmodified": 1677617902,
+    "wof:lastmodified": 1677619247,
     "wof:name": "DL2614 (LAX-SFO)",
     "wof:parent_id": 1763588255,
     "wof:placetype": "custom",

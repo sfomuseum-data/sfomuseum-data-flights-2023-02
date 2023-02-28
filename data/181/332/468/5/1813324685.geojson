@@ -7,7 +7,7 @@
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
     "edtf:cessation": "2023-02-28T04:00:00Z",
-    "edtf:inception": "2023-02-27T23:31:00Z",
+    "edtf:inception": "2023-02-27T07:31:51-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -100,14 +100,14 @@
     ],
     "wof:id": 1813324685,
     "wof:involves": [
-      1159289411,
-      102527513,
       1159283849,
       1763588221,
       1159284583,
-      102534365
+      102534365,
+      1159289411,
+      102527513
     ],
-    "wof:lastmodified": 1677617891,
+    "wof:lastmodified": 1677619235,
     "wof:name": "AA16 (SFO-JFK)",
     "wof:parent_id": 1763588221,
     "wof:placetype": "custom",

@@ -7,7 +7,7 @@
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
     "edtf:cessation": "2023-02-28T01:42:54Z",
-    "edtf:inception": "2023-02-27T21:09:00Z",
+    "edtf:inception": "2023-02-27T05:18:01-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -99,14 +99,14 @@
     ],
     "wof:id": 1813326573,
     "wof:involves": [
-      1159289411,
-      102534365,
       102527513,
       1159284583,
       1763588183,
-      1159283849
+      1159283849,
+      1159289411,
+      102534365
     ],
-    "wof:lastmodified": 1677617895,
+    "wof:lastmodified": 1677619240,
     "wof:name": "B6416 (SFO-JFK)",
     "wof:parent_id": 1763588183,
     "wof:placetype": "custom",

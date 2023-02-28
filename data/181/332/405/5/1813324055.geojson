@@ -2,11 +2,11 @@
   "id": 1813324055,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1970-01-01",
-    "date:cessation_upper": "1970-01-01",
+    "date:cessation_lower": "2023-02-27",
+    "date:cessation_upper": "2023-02-27",
     "date:inception_lower": "1970-01-01",
     "date:inception_upper": "1970-01-01",
-    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:cessation": "2023-02-27T02:31:03-08:00",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -101,7 +101,7 @@
       102534161,
       1159285413
     ],
-    "wof:lastmodified": 1677617889,
+    "wof:lastmodified": 1677619234,
     "wof:name": "UA2480 (SNA-SFO)",
     "wof:parent_id": 1763588355,
     "wof:placetype": "custom",

@@ -2,11 +2,11 @@
   "id": 1813322823,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1970-01-01",
-    "date:cessation_upper": "1970-01-01",
+    "date:cessation_lower": "2023-02-27",
+    "date:cessation_upper": "2023-02-27",
     "date:inception_lower": "1970-01-01",
     "date:inception_upper": "1970-01-01",
-    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:cessation": "2023-02-27T07:12:35-08:00",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
@@ -95,7 +95,7 @@
       1159284261,
       1763588251
     ],
-    "wof:lastmodified": 1677617885,
+    "wof:lastmodified": 1677619230,
     "wof:name": "DL469 (DTW-SFO)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

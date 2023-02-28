@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2023-02-28",
     "date:cessation_upper": "2023-02-28",
-    "date:inception_lower": "2023-02-28",
-    "date:inception_upper": "2023-02-28",
+    "date:inception_lower": "2023-02-27",
+    "date:inception_upper": "2023-02-27",
     "edtf:cessation": "2023-02-28T03:33:00Z",
-    "edtf:inception": "2023-02-28T00:44:00Z",
+    "edtf:inception": "2023-02-27T08:44:28-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2023-02-27",
@@ -100,7 +100,7 @@
       1159284261,
       1763588251
     ],
-    "wof:lastmodified": 1677617894,
+    "wof:lastmodified": 1677619238,
     "wof:name": "DL1308 (SFO-MSP)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",
