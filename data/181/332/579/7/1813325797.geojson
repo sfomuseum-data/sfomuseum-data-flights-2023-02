@@ -96,14 +96,14 @@
     ],
     "wof:id": 1813325797,
     "wof:involves": [
+      102534365,
+      1159289871,
       102527513,
       1159283813,
       1763588143,
-      1159286153,
-      1159289871,
-      102534365
+      1159286153
     ],
-    "wof:lastmodified": 1677612834,
+    "wof:lastmodified": 1677616010,
     "wof:name": "AS42 (SFO-JFK)",
     "wof:parent_id": 1763588143,
     "wof:placetype": "custom",

@@ -96,12 +96,12 @@
     "wof:involves": [
       1763588285,
       1159283697,
-      1159289945,
       102531189,
       102527513,
-      1159285413
+      1159285413,
+      1159289945
     ],
-    "wof:lastmodified": 1677612836,
+    "wof:lastmodified": 1677616013,
     "wof:name": "UA1026 (SFO-DEN)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",

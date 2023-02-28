@@ -95,12 +95,12 @@
     "wof:id": 1813327283,
     "wof:involves": [
       1763588351,
-      1377564285,
       102530815,
       102527513,
-      1159285413
+      1159285413,
+      1377564285
     ],
-    "wof:lastmodified": 1677612846,
+    "wof:lastmodified": 1677616022,
     "wof:name": "UA1574 (SFO-BZN)",
     "wof:parent_id": 1763588351,
     "wof:placetype": "custom",

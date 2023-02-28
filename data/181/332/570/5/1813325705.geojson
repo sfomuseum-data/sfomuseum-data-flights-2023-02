@@ -96,14 +96,14 @@
     ],
     "wof:id": 1813325705,
     "wof:involves": [
-      1528104577,
-      102533631,
       102527513,
       1159283813,
       1763588143,
-      1159286259
+      1159286259,
+      1528104577,
+      102533631
     ],
-    "wof:lastmodified": 1677612834,
+    "wof:lastmodified": 1677616010,
     "wof:name": "AS332 (SFO-ORD)",
     "wof:parent_id": 1763588143,
     "wof:placetype": "custom",

@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813323253,
     "wof:involves": [
-      1159289411,
       102527513,
       102534365,
       1159284583,
       1763588183,
-      1159283849
+      1159283849,
+      1159289411
     ],
-    "wof:lastmodified": 1677612828,
+    "wof:lastmodified": 1677616004,
     "wof:name": "B6615 (JFK-SFO)",
     "wof:parent_id": 1763588183,
     "wof:placetype": "custom",

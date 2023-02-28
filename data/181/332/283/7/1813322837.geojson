@@ -95,13 +95,13 @@
     "wof:id": 1813322837,
     "wof:involves": [
       1159285641,
-      1159289965,
       102527513,
       102534365,
       1159284261,
-      1763588247
+      1763588247,
+      1159289965
     ],
-    "wof:lastmodified": 1677612827,
+    "wof:lastmodified": 1677616003,
     "wof:name": "DL664 (JFK-SFO)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",

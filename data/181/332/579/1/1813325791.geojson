@@ -96,14 +96,14 @@
     ],
     "wof:id": 1813325791,
     "wof:involves": [
+      1159283813,
+      1377564285,
       1763588137,
       1159283849,
-      1377564285,
       102530049,
-      102527513,
-      1159283813
+      102527513
     ],
-    "wof:lastmodified": 1677612845,
+    "wof:lastmodified": 1677616021,
     "wof:name": "AS374 (SFO-EWR)",
     "wof:parent_id": 1763588137,
     "wof:placetype": "custom",

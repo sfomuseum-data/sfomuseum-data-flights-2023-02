@@ -95,14 +95,14 @@
     ],
     "wof:id": 1813327471,
     "wof:involves": [
-      1159285413,
       1763588325,
       1159283697,
-      1159289985,
       102533631,
-      102527513
+      102527513,
+      1159289985,
+      1159285413
     ],
-    "wof:lastmodified": 1677612846,
+    "wof:lastmodified": 1677616022,
     "wof:name": "UA476 (SFO-ORD)",
     "wof:parent_id": 1763588325,
     "wof:placetype": "custom",

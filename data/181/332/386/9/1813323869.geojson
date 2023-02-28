@@ -99,12 +99,12 @@
     "wof:involves": [
       1763588325,
       1159283597,
-      1159289985,
       102527513,
       102533997,
-      1159285413
+      1159285413,
+      1159289985
     ],
-    "wof:lastmodified": 1677612829,
+    "wof:lastmodified": 1677616005,
     "wof:name": "UA1141 (HNL-SFO)",
     "wof:parent_id": 1763588325,
     "wof:placetype": "custom",

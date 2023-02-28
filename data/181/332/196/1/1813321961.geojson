@@ -96,14 +96,14 @@
     ],
     "wof:id": 1813321961,
     "wof:involves": [
+      102552389,
+      1159289993,
       1159283697,
       1763588453,
       1159283597,
-      1159289993,
-      102527513,
-      102552389
+      102527513
     ],
-    "wof:lastmodified": 1677612839,
+    "wof:lastmodified": 1677616017,
     "wof:name": "NZ8 (AKL-SFO)",
     "wof:parent_id": 1763588453,
     "wof:placetype": "custom",

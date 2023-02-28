@@ -89,13 +89,13 @@
     ],
     "wof:id": 1813327647,
     "wof:involves": [
-      102533927,
-      102527513,
       1159285413,
       1763588327,
-      1159289871
+      1159289871,
+      102533927,
+      102527513
     ],
-    "wof:lastmodified": 1677612838,
+    "wof:lastmodified": 1677616015,
     "wof:name": "UA788 (SFO-EUG)",
     "wof:parent_id": 1763588327,
     "wof:placetype": "custom",

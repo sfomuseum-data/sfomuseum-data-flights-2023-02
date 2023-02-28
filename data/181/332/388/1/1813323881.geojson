@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813323881,
     "wof:involves": [
-      102527513,
-      102533927,
       1159285413,
       1763588287,
       1159283697,
-      1159292085
+      1159292085,
+      102527513,
+      102533927
     ],
-    "wof:lastmodified": 1677612843,
+    "wof:lastmodified": 1677616019,
     "wof:name": "UA1216 (EUG-SFO)",
     "wof:parent_id": 1763588287,
     "wof:placetype": "custom",

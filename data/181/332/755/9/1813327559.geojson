@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813327559,
     "wof:involves": [
+      1528104577,
       1763588159,
       1159283597,
-      1528104577,
       102527209,
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1677612838,
+    "wof:lastmodified": 1677616015,
     "wof:name": "UA561 (SFO-LAS)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

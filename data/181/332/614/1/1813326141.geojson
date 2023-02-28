@@ -91,13 +91,13 @@
     ],
     "wof:id": 1813326141,
     "wof:involves": [
+      102527513,
+      1377564285,
       1159284261,
       1763588243,
-      1377564285,
-      102525635,
-      102527513
+      102525635
     ],
-    "wof:lastmodified": 1677612845,
+    "wof:lastmodified": 1677616021,
     "wof:name": "DL766 (SFO-DTW)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

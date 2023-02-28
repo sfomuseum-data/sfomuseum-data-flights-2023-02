@@ -90,13 +90,13 @@
     ],
     "wof:id": 1813327383,
     "wof:involves": [
+      1528104577,
       102527513,
       1159285413,
       1763588353,
-      1528104577,
       102525035
     ],
-    "wof:lastmodified": 1677612837,
+    "wof:lastmodified": 1677616014,
     "wof:name": "UA2221 (SFO-BNA)",
     "wof:parent_id": 1763588353,
     "wof:placetype": "custom",

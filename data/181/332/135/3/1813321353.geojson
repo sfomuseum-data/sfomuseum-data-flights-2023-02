@@ -98,14 +98,14 @@
     ],
     "wof:id": 1813321353,
     "wof:involves": [
+      102527513,
+      1159289871,
       102526751,
       1159283849,
       1763588213,
-      1159284021,
-      1159289871,
-      102527513
+      1159284021
     ],
-    "wof:lastmodified": 1677612823,
+    "wof:lastmodified": 1677616001,
     "wof:name": "AA686 (PHX-SFO)",
     "wof:parent_id": 1763588213,
     "wof:placetype": "custom",

@@ -96,12 +96,12 @@
     "wof:involves": [
       1763588341,
       1159283597,
-      1159292085,
       102521851,
       102527513,
-      1159285413
+      1159285413,
+      1159292085
     ],
-    "wof:lastmodified": 1677612846,
+    "wof:lastmodified": 1677616022,
     "wof:name": "UA1780 (SFO-AUS)",
     "wof:parent_id": 1763588341,
     "wof:placetype": "custom",

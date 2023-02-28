@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813322451,
     "wof:involves": [
+      1528104577,
       1159283813,
       1763588149,
       1159283849,
-      1528104577,
       102527513,
       102532929
     ],
-    "wof:lastmodified": 1677612841,
+    "wof:lastmodified": 1677616018,
     "wof:name": "AS864 (OGG-SFO)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",
