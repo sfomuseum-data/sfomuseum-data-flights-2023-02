@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813324277,
     "wof:involves": [
+      1528104577,
       1763588329,
       1159283697,
       102527513,
       102530841,
-      1159285413,
-      1528104577
+      1159285413
     ],
-    "wof:lastmodified": 1677619234,
+    "wof:lastmodified": 1677620131,
     "wof:name": "UA693 (FLL-SFO)",
     "wof:parent_id": 1763588329,
     "wof:placetype": "custom",

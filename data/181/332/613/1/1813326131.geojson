@@ -99,14 +99,14 @@
     ],
     "wof:id": 1813326131,
     "wof:involves": [
+      1377564285,
       1159284261,
       1763588251,
       1159284625,
       102525635,
-      1377564285,
       102527513
     ],
-    "wof:lastmodified": 1677619249,
+    "wof:lastmodified": 1677620144,
     "wof:name": "DL662 (SFO-DTW)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

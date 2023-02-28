@@ -95,13 +95,13 @@
     "wof:id": 1813324081,
     "wof:involves": [
       1763588287,
-      1377564285,
       1159283697,
       102527513,
       102533631,
-      1159285413
+      1159285413,
+      1377564285
     ],
-    "wof:lastmodified": 1677619248,
+    "wof:lastmodified": 1677620143,
     "wof:name": "UA2678 (ORD-SFO)",
     "wof:parent_id": 1763588287,
     "wof:placetype": "custom",

@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813324137,
     "wof:involves": [
+      1159285413,
+      1528104577,
       1763588311,
       1159283597,
       102527513,
-      102527209,
-      1528104577,
-      1159285413
+      102527209
     ],
-    "wof:lastmodified": 1677619234,
+    "wof:lastmodified": 1677620130,
     "wof:name": "UA477 (LAS-SFO)",
     "wof:parent_id": 1763588311,
     "wof:placetype": "custom",

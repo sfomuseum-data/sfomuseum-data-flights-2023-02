@@ -95,14 +95,14 @@
     ],
     "wof:id": 1813322297,
     "wof:involves": [
+      1377564297,
       1763588137,
       1159284021,
       102527513,
-      1377564297,
       102533795,
       1159283813
     ],
-    "wof:lastmodified": 1677619246,
+    "wof:lastmodified": 1677620141,
     "wof:name": "AS1309 (LAX-SFO)",
     "wof:parent_id": 1763588137,
     "wof:placetype": "custom",

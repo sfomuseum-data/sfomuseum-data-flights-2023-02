@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813324267,
     "wof:involves": [
+      102557779,
+      1159285413,
       1159293215,
       1763588451,
       1159285485,
-      102527513,
-      102557779,
-      1159285413
+      102527513
     ],
-    "wof:lastmodified": 1677619234,
+    "wof:lastmodified": 1677620131,
     "wof:name": "UA61 (MEL-SFO)",
     "wof:parent_id": 1763588451,
     "wof:placetype": "custom",

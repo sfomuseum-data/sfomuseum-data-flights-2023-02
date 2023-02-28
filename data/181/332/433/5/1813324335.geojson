@@ -96,12 +96,12 @@
     "wof:involves": [
       1763588451,
       1159283917,
-      1159293215,
       102527513,
       102556451,
-      1159285413
+      1159285413,
+      1159293215
     ],
-    "wof:lastmodified": 1677619235,
+    "wof:lastmodified": 1677620131,
     "wof:name": "UA892 (ICN-SFO)",
     "wof:parent_id": 1763588451,
     "wof:placetype": "custom",

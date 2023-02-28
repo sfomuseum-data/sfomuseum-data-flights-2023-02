@@ -98,14 +98,14 @@
     ],
     "wof:id": 1813327499,
     "wof:involves": [
+      1528104577,
       102528997,
       102527513,
       1159285413,
       1763588285,
-      1528104577,
       1159283597
     ],
-    "wof:lastmodified": 1677619243,
+    "wof:lastmodified": 1677620138,
     "wof:name": "UA528 (SFO-SAN)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",

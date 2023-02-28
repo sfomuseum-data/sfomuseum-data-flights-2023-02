@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813327339,
     "wof:involves": [
-      1159289407,
       1159283697,
       102533269,
       102527513,
       1159285413,
-      1763588289
+      1763588289,
+      1159289407
     ],
-    "wof:lastmodified": 1677619242,
+    "wof:lastmodified": 1677620138,
     "wof:name": "UA1986 (SFO-SEA)",
     "wof:parent_id": 1763588289,
     "wof:placetype": "custom",
