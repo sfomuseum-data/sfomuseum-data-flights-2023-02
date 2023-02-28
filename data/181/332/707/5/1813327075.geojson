@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "1970-01-01",
     "date:cessation_upper": "1970-01-01",
-    "date:inception_lower": "2023-02-28",
-    "date:inception_upper": "2023-02-28",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
     "edtf:cessation": "1970-01-01T00:00:00Z",
-    "edtf:inception": "2023-02-27T23:12:41-08:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2023-02-27",
@@ -95,7 +95,7 @@
       1159285591,
       1763588195
     ],
-    "wof:lastmodified": 1677616013,
+    "wof:lastmodified": 1677617896,
     "wof:name": "WN2320 (SFO-BUR)",
     "wof:parent_id": 1763588195,
     "wof:placetype": "custom",

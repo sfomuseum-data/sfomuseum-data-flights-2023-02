@@ -7,7 +7,7 @@
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
     "edtf:cessation": "2023-02-28T03:28:00Z",
-    "edtf:inception": "2023-02-27T07:14:40-08:00",
+    "edtf:inception": "2023-02-27T23:14:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -100,14 +100,14 @@
     ],
     "wof:id": 1813327255,
     "wof:involves": [
-      1159283697,
-      1377564289,
-      102530049,
       102527513,
       1159285413,
-      1763588309
+      1763588309,
+      1377564289,
+      1159283697,
+      102530049
     ],
-    "wof:lastmodified": 1677616013,
+    "wof:lastmodified": 1677617896,
     "wof:name": "UA1428 (SFO-EWR)",
     "wof:parent_id": 1763588309,
     "wof:placetype": "custom",

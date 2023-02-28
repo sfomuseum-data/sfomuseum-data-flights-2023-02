@@ -2,11 +2,11 @@
   "id": 1813324081,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "1970-01-01",
     "date:inception_upper": "1970-01-01",
-    "edtf:cessation": "2023-02-27T02:29:11-08:00",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813324081,
     "wof:involves": [
-      1377564285,
-      1763588287,
       1159283697,
       102527513,
       102533631,
-      1159285413
+      1159285413,
+      1377564285,
+      1763588287
     ],
-    "wof:lastmodified": 1677616020,
+    "wof:lastmodified": 1677617904,
     "wof:name": "UA2678 (ORD-SFO)",
     "wof:parent_id": 1763588287,
     "wof:placetype": "custom",

@@ -2,11 +2,11 @@
   "id": 1813323709,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "1970-01-01",
     "date:inception_upper": "1970-01-01",
-    "edtf:cessation": "2023-02-27T03:00:22-08:00",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
@@ -89,13 +89,13 @@
     ],
     "wof:id": 1813323709,
     "wof:involves": [
-      102527513,
-      1159289869,
-      102528997,
       1159285591,
-      1763588185
+      1763588185,
+      1159289869,
+      102527513,
+      102528997
     ],
-    "wof:lastmodified": 1677616005,
+    "wof:lastmodified": 1677617887,
     "wof:name": "WN2334 (SAN-SFO)",
     "wof:parent_id": 1763588185,
     "wof:placetype": "custom",

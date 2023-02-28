@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "1970-01-01",
     "date:cessation_upper": "1970-01-01",
-    "date:inception_lower": "2023-02-27",
-    "date:inception_upper": "2023-02-27",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
     "edtf:cessation": "1970-01-01T00:00:00Z",
-    "edtf:inception": "2023-02-27T02:25:13-08:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -102,7 +102,7 @@
       1763588307,
       1159283597
     ],
-    "wof:lastmodified": 1677616022,
+    "wof:lastmodified": 1677617906,
     "wof:name": "UA1721 (SFO-KOA)",
     "wof:parent_id": 1763588307,
     "wof:placetype": "custom",

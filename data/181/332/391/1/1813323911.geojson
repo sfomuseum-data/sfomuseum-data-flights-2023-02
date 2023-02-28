@@ -2,11 +2,11 @@
   "id": 1813323911,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-28",
-    "date:cessation_upper": "2023-02-28",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "1970-01-01",
     "date:inception_upper": "1970-01-01",
-    "edtf:cessation": "2023-02-27T16:26:51-08:00",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -101,7 +101,7 @@
       1763588281,
       1159283697
     ],
-    "wof:lastmodified": 1677616019,
+    "wof:lastmodified": 1677617903,
     "wof:name": "UA1447 (IAH-SFO)",
     "wof:parent_id": 1763588281,
     "wof:placetype": "custom",

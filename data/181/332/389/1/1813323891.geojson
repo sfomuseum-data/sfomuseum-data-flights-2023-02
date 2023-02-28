@@ -2,11 +2,11 @@
   "id": 1813323891,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "2023-02-28",
+    "date:cessation_upper": "2023-02-28",
     "date:inception_lower": "2023-02-28",
     "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "2023-02-27T09:25:09-08:00",
+    "edtf:cessation": "2023-02-28T01:25:00Z",
     "edtf:inception": "2023-02-28T00:06:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -98,14 +98,14 @@
     ],
     "wof:id": 1813323891,
     "wof:involves": [
-      102533591,
       1159285413,
       1763588341,
       1159283597,
+      102527513,
       1528104577,
-      102527513
+      102533591
     ],
-    "wof:lastmodified": 1677616019,
+    "wof:lastmodified": 1677617903,
     "wof:name": "UA1267 (PSP-SFO)",
     "wof:parent_id": 1763588341,
     "wof:placetype": "custom",

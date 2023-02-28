@@ -2,11 +2,11 @@
   "id": 1813322775,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "1970-01-01",
     "date:inception_upper": "1970-01-01",
-    "edtf:cessation": "2023-02-27T06:53:43-08:00",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
@@ -90,13 +90,13 @@
     ],
     "wof:id": 1813322775,
     "wof:involves": [
-      1377564285,
       1763588243,
       102527513,
       102531131,
-      1159284261
+      1159284261,
+      1377564285
     ],
-    "wof:lastmodified": 1677616003,
+    "wof:lastmodified": 1677617885,
     "wof:name": "DL1351 (MSP-SFO)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

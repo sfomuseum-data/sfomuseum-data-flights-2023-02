@@ -7,7 +7,7 @@
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
     "edtf:cessation": "2023-02-28T00:42:00Z",
-    "edtf:inception": "2023-02-27T06:54:38-08:00",
+    "edtf:inception": "2023-02-27T22:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -100,14 +100,14 @@
     ],
     "wof:id": 1813327591,
     "wof:involves": [
+      1763588341,
+      1159283697,
       1377564285,
       102531189,
       102527513,
-      1159285413,
-      1763588341,
-      1159283697
+      1159285413
     ],
-    "wof:lastmodified": 1677616022,
+    "wof:lastmodified": 1677617906,
     "wof:name": "UA576 (SFO-DEN)",
     "wof:parent_id": 1763588341,
     "wof:placetype": "custom",

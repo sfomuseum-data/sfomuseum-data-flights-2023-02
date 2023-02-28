@@ -2,11 +2,11 @@
   "id": 1813324089,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "2023-02-28",
+    "date:cessation_upper": "2023-02-28",
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
-    "edtf:cessation": "2023-02-27T12:56:26-08:00",
+    "edtf:cessation": "2023-02-28T04:56:00Z",
     "edtf:inception": "2023-02-27T14:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -93,13 +93,13 @@
     ],
     "wof:id": 1813324089,
     "wof:involves": [
-      1159293215,
-      102551593,
       1159285413,
       1763588437,
-      102527513
+      102527513,
+      1159293215,
+      102551593
     ],
-    "wof:lastmodified": 1677616007,
+    "wof:lastmodified": 1677617889,
     "wof:name": "UA28 (SIN-SFO)",
     "wof:parent_id": 1763588437,
     "wof:placetype": "custom",

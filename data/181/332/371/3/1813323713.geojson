@@ -2,11 +2,11 @@
   "id": 1813323713,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "1970-01-01",
     "date:inception_upper": "1970-01-01",
-    "edtf:cessation": "2023-02-27T15:03:00-08:00",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
@@ -95,7 +95,7 @@
       102527513,
       102527209
     ],
-    "wof:lastmodified": 1677616005,
+    "wof:lastmodified": 1677617887,
     "wof:name": "WN2338 (LAS-SFO)",
     "wof:parent_id": 1763588195,
     "wof:placetype": "custom",

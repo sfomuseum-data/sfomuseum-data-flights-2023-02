@@ -7,7 +7,7 @@
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
     "edtf:cessation": "2023-02-28T00:13:00Z",
-    "edtf:inception": "2023-02-27T03:47:00-08:00",
+    "edtf:inception": "2023-02-27T19:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -99,14 +99,14 @@
     ],
     "wof:id": 1813324733,
     "wof:involves": [
-      1159289411,
-      102527513,
-      1159283849,
       1763588217,
       1159284021,
-      102529403
+      102529403,
+      1159289411,
+      102527513,
+      1159283849
     ],
-    "wof:lastmodified": 1677616008,
+    "wof:lastmodified": 1677617891,
     "wof:name": "AA465 (SFO-PHL)",
     "wof:parent_id": 1763588217,
     "wof:placetype": "custom",

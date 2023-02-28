@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2023-02-28",
     "date:cessation_upper": "2023-02-28",
-    "date:inception_lower": "2023-02-27",
-    "date:inception_upper": "2023-02-27",
+    "date:inception_lower": "2023-02-28",
+    "date:inception_upper": "2023-02-28",
     "edtf:cessation": "2023-02-28T10:53:00Z",
-    "edtf:inception": "2023-02-27T15:34:53-08:00",
+    "edtf:inception": "2023-02-28T07:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -99,14 +99,14 @@
     ],
     "wof:id": 1813324683,
     "wof:involves": [
-      1159289871,
-      1763588219,
-      1159283495,
       102533631,
       102527513,
-      1159283849
+      1159283849,
+      1159289871,
+      1763588219,
+      1159283495
     ],
-    "wof:lastmodified": 1677616008,
+    "wof:lastmodified": 1677617891,
     "wof:name": "AA1253 (SFO-ORD)",
     "wof:parent_id": 1763588219,
     "wof:placetype": "custom",

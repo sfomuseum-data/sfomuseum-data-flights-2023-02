@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2023-02-28",
     "date:cessation_upper": "2023-02-28",
-    "date:inception_lower": "2023-02-27",
-    "date:inception_upper": "2023-02-27",
+    "date:inception_lower": "2023-02-28",
+    "date:inception_upper": "2023-02-28",
     "edtf:cessation": "2023-02-28T11:37:00Z",
-    "edtf:inception": "2023-02-27T15:33:14-08:00",
+    "edtf:inception": "2023-02-28T07:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -100,13 +100,13 @@
     "wof:id": 1813327381,
     "wof:involves": [
       1159283697,
-      1159289945,
       102533657,
       102527513,
       1159285413,
-      1763588321
+      1763588321,
+      1159289945
     ],
-    "wof:lastmodified": 1677616022,
+    "wof:lastmodified": 1677617906,
     "wof:name": "UA221 (SFO-MCO)",
     "wof:parent_id": 1763588321,
     "wof:placetype": "custom",

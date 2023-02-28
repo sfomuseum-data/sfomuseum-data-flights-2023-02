@@ -7,7 +7,7 @@
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
     "edtf:cessation": "2023-02-28T00:32:00Z",
-    "edtf:inception": "2023-02-27T05:51:32-08:00",
+    "edtf:inception": "2023-02-27T21:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -98,14 +98,14 @@
     ],
     "wof:id": 1813327219,
     "wof:involves": [
-      1159292085,
       1159285413,
       1763588345,
       1159283597,
       102521851,
-      102527513
+      102527513,
+      1159292085
     ],
-    "wof:lastmodified": 1677616013,
+    "wof:lastmodified": 1677617896,
     "wof:name": "UA1107 (SFO-AUS)",
     "wof:parent_id": 1763588345,
     "wof:placetype": "custom",

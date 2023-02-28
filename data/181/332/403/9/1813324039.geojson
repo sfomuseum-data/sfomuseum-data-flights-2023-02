@@ -2,11 +2,11 @@
   "id": 1813324039,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "2023-02-28",
+    "date:cessation_upper": "2023-02-28",
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
-    "edtf:cessation": "2023-02-27T08:59:53-08:00",
+    "edtf:cessation": "2023-02-28T01:00:00Z",
     "edtf:inception": "2023-02-27T21:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -98,14 +98,14 @@
     ],
     "wof:id": 1813324039,
     "wof:involves": [
-      1377564285,
-      102527513,
       102534097,
       1159285413,
       1763588287,
-      1159283697
+      1159283697,
+      1377564285,
+      102527513
     ],
-    "wof:lastmodified": 1677616006,
+    "wof:lastmodified": 1677617889,
     "wof:name": "UA2385 (IAH-SFO)",
     "wof:parent_id": 1763588287,
     "wof:placetype": "custom",

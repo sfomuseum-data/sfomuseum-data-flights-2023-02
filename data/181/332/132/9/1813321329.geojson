@@ -2,11 +2,11 @@
   "id": 1813321329,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "2023-02-28",
+    "date:cessation_upper": "2023-02-28",
     "date:inception_lower": "2023-02-28",
     "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "2023-02-27T11:11:44-08:00",
+    "edtf:cessation": "2023-02-28T03:11:00Z",
     "edtf:inception": "2023-02-28T01:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
@@ -98,14 +98,14 @@
     ],
     "wof:id": 1813321329,
     "wof:involves": [
-      1159289871,
-      1159283849,
       1763588219,
       1159284021,
       102527513,
-      102526751
+      102526751,
+      1159289871,
+      1159283849
     ],
-    "wof:lastmodified": 1677616001,
+    "wof:lastmodified": 1677617884,
     "wof:name": "AA2555 (PHX-SFO)",
     "wof:parent_id": 1763588219,
     "wof:placetype": "custom",

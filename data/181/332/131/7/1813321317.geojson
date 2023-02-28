@@ -2,11 +2,11 @@
   "id": 1813321317,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "1970-01-01",
     "date:inception_upper": "1970-01-01",
-    "edtf:cessation": "2023-02-27T05:02:08-08:00",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813321317,
     "wof:involves": [
+      1159284021,
       1159289411,
       102527513,
       102528541,
       1159283849,
-      1763588209,
-      1159284021
+      1763588209
     ],
-    "wof:lastmodified": 1677616000,
+    "wof:lastmodified": 1677617884,
     "wof:name": "AA2023 (DFW-SFO)",
     "wof:parent_id": 1763588209,
     "wof:placetype": "custom",

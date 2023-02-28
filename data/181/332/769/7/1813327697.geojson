@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2023-02-28",
     "date:cessation_upper": "2023-02-28",
-    "date:inception_lower": "2023-02-27",
-    "date:inception_upper": "2023-02-27",
+    "date:inception_lower": "2023-02-28",
+    "date:inception_upper": "2023-02-28",
     "edtf:cessation": "2023-02-28T13:26:00Z",
-    "edtf:inception": "2023-02-27T11:31:01-08:00",
+    "edtf:inception": "2023-02-28T03:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -99,14 +99,14 @@
     ],
     "wof:id": 1813327697,
     "wof:involves": [
+      102527513,
       1159293215,
       1159285413,
       1763588441,
       1159283597,
-      102556703,
-      102527513
+      102556703
     ],
-    "wof:lastmodified": 1677616015,
+    "wof:lastmodified": 1677617898,
     "wof:name": "UA930 (SFO-LHR)",
     "wof:parent_id": 1763588441,
     "wof:placetype": "custom",

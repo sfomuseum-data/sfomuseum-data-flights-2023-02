@@ -2,11 +2,11 @@
   "id": 1813321321,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "2023-02-28",
+    "date:cessation_upper": "2023-02-28",
     "date:inception_lower": "2023-02-28",
     "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "2023-02-27T15:00:22-08:00",
+    "edtf:cessation": "2023-02-28T07:00:00Z",
     "edtf:inception": "2023-02-28T00:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
@@ -100,14 +100,14 @@
     ],
     "wof:id": 1813321321,
     "wof:involves": [
-      102527513,
       102531023,
       1159283849,
       1763588201,
       1159284021,
-      1528104575
+      1528104575,
+      102527513
     ],
-    "wof:lastmodified": 1677616000,
+    "wof:lastmodified": 1677617884,
     "wof:name": "AA2035 (MIA-SFO)",
     "wof:parent_id": 1763588201,
     "wof:placetype": "custom",

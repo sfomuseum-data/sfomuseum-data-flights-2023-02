@@ -2,11 +2,11 @@
   "id": 1813323945,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "2023-02-28",
+    "date:cessation_upper": "2023-02-28",
     "date:inception_lower": "2023-02-28",
     "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "2023-02-27T14:05:28-08:00",
+    "edtf:cessation": "2023-02-28T06:05:00Z",
     "edtf:inception": "2023-02-28T00:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -98,7 +98,7 @@
       1763588315,
       102527513
     ],
-    "wof:lastmodified": 1677616006,
+    "wof:lastmodified": 1677617903,
     "wof:name": "UA1649 (CMH-SFO)",
     "wof:parent_id": 1763588315,
     "wof:placetype": "custom",

@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "1970-01-01",
     "date:cessation_upper": "1970-01-01",
-    "date:inception_lower": "2023-02-27",
-    "date:inception_upper": "2023-02-27",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
     "edtf:cessation": "1970-01-01T00:00:00Z",
-    "edtf:inception": "2023-02-27T08:23:36-08:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2023-02-27",
@@ -91,13 +91,13 @@
     ],
     "wof:id": 1813326141,
     "wof:involves": [
-      102527513,
-      1377564285,
-      1159284261,
       1763588243,
-      102525635
+      102525635,
+      1377564285,
+      102527513,
+      1159284261
     ],
-    "wof:lastmodified": 1677616021,
+    "wof:lastmodified": 1677617905,
     "wof:name": "DL766 (SFO-DTW)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

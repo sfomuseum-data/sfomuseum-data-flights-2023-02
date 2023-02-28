@@ -2,11 +2,11 @@
   "id": 1813321759,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "2023-02-28",
+    "date:cessation_upper": "2023-02-28",
     "date:inception_lower": "2023-02-28",
     "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "2023-02-27T14:56:52-08:00",
+    "edtf:cessation": "2023-02-28T06:56:00Z",
     "edtf:inception": "2023-02-28T05:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
@@ -97,14 +97,14 @@
     ],
     "wof:id": 1813321759,
     "wof:involves": [
+      1763588155,
+      1528104575,
       1159285749,
       102527513,
       102555307,
-      1159283597,
-      1528104575,
-      1763588155
+      1159283597
     ],
-    "wof:lastmodified": 1677616016,
+    "wof:lastmodified": 1677617900,
     "wof:name": "AC572 (YVR-SFO)",
     "wof:parent_id": 1763588155,
     "wof:placetype": "custom",

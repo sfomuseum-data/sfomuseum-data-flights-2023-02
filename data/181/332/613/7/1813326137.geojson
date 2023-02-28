@@ -7,7 +7,7 @@
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
     "edtf:cessation": "2023-02-28T03:47:00Z",
-    "edtf:inception": "2023-02-27T07:20:07-08:00",
+    "edtf:inception": "2023-02-27T23:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -100,14 +100,14 @@
     ],
     "wof:id": 1813326137,
     "wof:involves": [
-      1159289965,
       102534365,
       102527513,
       1159284261,
       1763588247,
-      1159285483
+      1159285483,
+      1159289965
     ],
-    "wof:lastmodified": 1677616011,
+    "wof:lastmodified": 1677617894,
     "wof:name": "DL719 (SFO-JFK)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",

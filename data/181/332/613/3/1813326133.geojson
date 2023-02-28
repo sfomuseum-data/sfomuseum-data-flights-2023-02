@@ -7,7 +7,7 @@
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
     "edtf:cessation": "2023-02-27T22:35:24Z",
-    "edtf:inception": "2023-02-27T04:51:02-08:00",
+    "edtf:inception": "2023-02-27T20:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -105,7 +105,7 @@
       1763588247,
       1159284625
     ],
-    "wof:lastmodified": 1677616011,
+    "wof:lastmodified": 1677617894,
     "wof:name": "DL664 (SFO-PHX)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",

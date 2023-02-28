@@ -2,11 +2,11 @@
   "id": 1813323229,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "1970-01-01",
     "date:inception_upper": "1970-01-01",
-    "edtf:cessation": "2023-02-27T00:50:33-08:00",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
@@ -89,13 +89,13 @@
     ],
     "wof:id": 1813323229,
     "wof:involves": [
-      1763588179,
-      1159292085,
       102527513,
       102533795,
-      1159284583
+      1159284583,
+      1159292085,
+      1763588179
     ],
-    "wof:lastmodified": 1677616004,
+    "wof:lastmodified": 1677617886,
     "wof:name": "B62836 (LAX-SFO)",
     "wof:parent_id": 1763588179,
     "wof:placetype": "custom",

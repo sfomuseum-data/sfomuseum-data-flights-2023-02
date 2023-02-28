@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2023-02-28",
     "date:cessation_upper": "2023-02-28",
-    "date:inception_lower": "2023-02-27",
-    "date:inception_upper": "2023-02-27",
+    "date:inception_lower": "2023-02-28",
+    "date:inception_upper": "2023-02-28",
     "edtf:cessation": "2023-02-28T05:55:00Z",
-    "edtf:inception": "2023-02-27T10:02:58-08:00",
+    "edtf:inception": "2023-02-28T02:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -99,14 +99,14 @@
     ],
     "wof:id": 1813325153,
     "wof:involves": [
-      1159283597,
-      1763588155,
       1159283697,
-      1159292085,
       102555091,
-      102527513
+      102527513,
+      1159292085,
+      1159283597,
+      1763588155
     ],
-    "wof:lastmodified": 1677616009,
+    "wof:lastmodified": 1677617892,
     "wof:name": "AC740 (SFO-YYZ)",
     "wof:parent_id": 1763588155,
     "wof:placetype": "custom",

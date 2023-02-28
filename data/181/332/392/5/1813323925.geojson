@@ -2,11 +2,11 @@
   "id": 1813323925,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "2023-02-28",
+    "date:cessation_upper": "2023-02-28",
     "date:inception_lower": "2023-02-28",
     "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "2023-02-27T12:23:47-08:00",
+    "edtf:cessation": "2023-02-28T04:23:00Z",
     "edtf:inception": "2023-02-28T00:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -105,7 +105,7 @@
       1763588309,
       1159289985
     ],
-    "wof:lastmodified": 1677616006,
+    "wof:lastmodified": 1677617903,
     "wof:name": "UA1496 (IAH-SFO)",
     "wof:parent_id": 1763588309,
     "wof:placetype": "custom",

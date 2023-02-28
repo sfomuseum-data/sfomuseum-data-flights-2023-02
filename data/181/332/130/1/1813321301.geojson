@@ -2,11 +2,11 @@
   "id": 1813321301,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "2023-02-28",
+    "date:cessation_upper": "2023-02-28",
     "date:inception_lower": "2023-02-28",
     "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "2023-02-27T14:00:36-08:00",
+    "edtf:cessation": "2023-02-28T06:00:00Z",
     "edtf:inception": "2023-02-28T02:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
@@ -104,7 +104,7 @@
       1159283849,
       1763588225
     ],
-    "wof:lastmodified": 1677616002,
+    "wof:lastmodified": 1677617883,
     "wof:name": "AA1430 (DFW-SFO)",
     "wof:parent_id": 1763588225,
     "wof:placetype": "custom",

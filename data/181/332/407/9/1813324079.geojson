@@ -2,11 +2,11 @@
   "id": 1813324079,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "2023-02-28",
+    "date:cessation_upper": "2023-02-28",
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
-    "edtf:cessation": "2023-02-27T10:47:23-08:00",
+    "edtf:cessation": "2023-02-28T02:42:24Z",
     "edtf:inception": "2023-02-27T22:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -99,14 +99,14 @@
     ],
     "wof:id": 1813324079,
     "wof:involves": [
+      1159283597,
       1159293215,
       102527513,
       102533631,
       1159285413,
-      1763588465,
-      1159283597
+      1763588465
     ],
-    "wof:lastmodified": 1677616007,
+    "wof:lastmodified": 1677617889,
     "wof:name": "UA2664 (ORD-SFO)",
     "wof:parent_id": 1763588465,
     "wof:placetype": "custom",

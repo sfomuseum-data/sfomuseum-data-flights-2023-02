@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "1970-01-01",
     "date:cessation_upper": "1970-01-01",
-    "date:inception_lower": "2023-02-28",
-    "date:inception_upper": "2023-02-28",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
     "edtf:cessation": "1970-01-01T00:00:00Z",
-    "edtf:inception": "2023-02-27T22:10:43-08:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813324713,
     "wof:involves": [
-      1159283849,
-      1763588201,
       1159284021,
-      1159289871,
       102533631,
-      102527513
+      102527513,
+      1159289871,
+      1159283849,
+      1763588201
     ],
-    "wof:lastmodified": 1677616008,
+    "wof:lastmodified": 1677617891,
     "wof:name": "AA2614 (SFO-ORD)",
     "wof:parent_id": 1763588201,
     "wof:placetype": "custom",

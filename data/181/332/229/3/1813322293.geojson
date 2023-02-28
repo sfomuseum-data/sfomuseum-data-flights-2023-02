@@ -6,7 +6,7 @@
     "date:cessation_upper": "2023-02-27",
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
-    "edtf:cessation": "2023-02-27T06:15:55-08:00",
+    "edtf:cessation": "2023-02-27T22:16:46Z",
     "edtf:inception": "2023-02-27T20:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
@@ -96,12 +96,12 @@
     "wof:involves": [
       1159283813,
       1763588141,
-      1528104577,
       1159283849,
       102527513,
-      102533269
+      102533269,
+      1528104577
     ],
-    "wof:lastmodified": 1677616002,
+    "wof:lastmodified": 1677617902,
     "wof:name": "AS1178 (SEA-SFO)",
     "wof:parent_id": 1763588141,
     "wof:placetype": "custom",

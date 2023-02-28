@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "1970-01-01",
     "date:cessation_upper": "1970-01-01",
-    "date:inception_lower": "2023-02-27",
-    "date:inception_upper": "2023-02-27",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
     "edtf:cessation": "1970-01-01T00:00:00Z",
-    "edtf:inception": "2023-02-27T11:00:39-08:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -96,14 +96,14 @@
     ],
     "wof:id": 1813325651,
     "wof:involves": [
+      102527513,
+      1377564285,
       1159283813,
       1763588159,
       1159283849,
-      102533269,
-      102527513,
-      1377564285
+      102533269
     ],
-    "wof:lastmodified": 1677616021,
+    "wof:lastmodified": 1677617905,
     "wof:name": "AS1145 (SFO-SEA)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

@@ -7,7 +7,7 @@
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
     "edtf:cessation": "2023-02-28T09:41:00Z",
-    "edtf:inception": "2023-02-27T07:16:25-08:00",
+    "edtf:inception": "2023-02-27T23:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -99,14 +99,14 @@
     ],
     "wof:id": 1813327593,
     "wof:involves": [
-      102527513,
-      1159285413,
       1763588441,
       1159283597,
+      102549057,
       1159289993,
-      102549057
+      102527513,
+      1159285413
     ],
-    "wof:lastmodified": 1677616015,
+    "wof:lastmodified": 1677617898,
     "wof:name": "UA58 (SFO-FRA)",
     "wof:parent_id": 1763588441,
     "wof:placetype": "custom",

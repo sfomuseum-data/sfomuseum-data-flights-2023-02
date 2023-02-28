@@ -2,11 +2,11 @@
   "id": 1813324065,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "2023-02-28",
+    "date:cessation_upper": "2023-02-28",
     "date:inception_lower": "2023-02-28",
     "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "2023-02-27T14:34:20-08:00",
+    "edtf:cessation": "2023-02-28T06:34:00Z",
     "edtf:inception": "2023-02-28T02:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -97,14 +97,14 @@
     ],
     "wof:id": 1813324065,
     "wof:involves": [
-      1763588317,
-      1159283697,
       102527513,
       102534097,
+      1159285413,
       1159289985,
-      1159285413
+      1763588317,
+      1159283697
     ],
-    "wof:lastmodified": 1677616007,
+    "wof:lastmodified": 1677617889,
     "wof:name": "UA2621 (IAH-SFO)",
     "wof:parent_id": 1763588317,
     "wof:placetype": "custom",

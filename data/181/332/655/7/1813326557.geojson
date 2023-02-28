@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "1970-01-01",
     "date:cessation_upper": "1970-01-01",
-    "date:inception_lower": "2023-02-27",
-    "date:inception_upper": "2023-02-27",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
     "edtf:cessation": "1970-01-01T00:00:00Z",
-    "edtf:inception": "2023-02-27T15:39:52-08:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -96,14 +96,14 @@
     ],
     "wof:id": 1813326557,
     "wof:involves": [
+      1159289411,
       1763588181,
       1159284489,
       102530841,
       102527513,
-      1159284583,
-      1159289411
+      1159284583
     ],
-    "wof:lastmodified": 1677616012,
+    "wof:lastmodified": 1677617895,
     "wof:name": "B6278 (SFO-FLL)",
     "wof:parent_id": 1763588181,
     "wof:placetype": "custom",

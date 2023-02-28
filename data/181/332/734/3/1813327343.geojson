@@ -7,7 +7,7 @@
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
     "edtf:cessation": "2023-02-27T22:23:00Z",
-    "edtf:inception": "2023-02-27T04:49:30-08:00",
+    "edtf:inception": "2023-02-27T20:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -99,14 +99,14 @@
     ],
     "wof:id": 1813327343,
     "wof:involves": [
+      102527513,
+      1159285413,
+      1159289985,
       1763588333,
       1159283597,
-      1159289985,
-      102531189,
-      102527513,
-      1159285413
+      102531189
     ],
-    "wof:lastmodified": 1677616014,
+    "wof:lastmodified": 1677617897,
     "wof:name": "UA1999 (SFO-DEN)",
     "wof:parent_id": 1763588333,
     "wof:placetype": "custom",

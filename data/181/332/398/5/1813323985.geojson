@@ -2,11 +2,11 @@
   "id": 1813323985,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-28",
-    "date:cessation_upper": "2023-02-28",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "1970-01-01",
     "date:inception_upper": "1970-01-01",
-    "edtf:cessation": "2023-02-27T23:59:57-08:00",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -101,7 +101,7 @@
       1159285413,
       1763588319
     ],
-    "wof:lastmodified": 1677616006,
+    "wof:lastmodified": 1677617889,
     "wof:name": "UA1915 (SNA-SFO)",
     "wof:parent_id": 1763588319,
     "wof:placetype": "custom",

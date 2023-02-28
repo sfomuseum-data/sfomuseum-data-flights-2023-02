@@ -7,7 +7,7 @@
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
     "edtf:cessation": "2023-02-27T22:12:00Z",
-    "edtf:inception": "2023-02-27T01:33:01-08:00",
+    "edtf:inception": "2023-02-27T17:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -101,10 +101,10 @@
       102531023,
       102527513,
       1159285413,
-      1528104577,
-      1763588347
+      1763588347,
+      1528104577
     ],
-    "wof:lastmodified": 1677616014,
+    "wof:lastmodified": 1677617897,
     "wof:name": "UA1702 (SFO-MIA)",
     "wof:parent_id": 1763588347,
     "wof:placetype": "custom",

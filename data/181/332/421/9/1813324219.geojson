@@ -2,11 +2,11 @@
   "id": 1813324219,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "1970-01-01",
     "date:inception_upper": "1970-01-01",
-    "edtf:cessation": "2023-02-27T01:41:47-08:00",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -94,14 +94,14 @@
     ],
     "wof:id": 1813324219,
     "wof:involves": [
-      102529403,
       1159285413,
       1763588159,
       1159283697,
+      102527513,
       1528104577,
-      102527513
+      102529403
     ],
-    "wof:lastmodified": 1677616007,
+    "wof:lastmodified": 1677617890,
     "wof:name": "UA561 (PHL-SFO)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

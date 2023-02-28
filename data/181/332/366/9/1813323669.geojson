@@ -2,11 +2,11 @@
   "id": 1813323669,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "2023-02-28",
+    "date:cessation_upper": "2023-02-28",
     "date:inception_lower": "2023-02-27",
     "date:inception_upper": "2023-02-27",
-    "edtf:cessation": "2023-02-27T10:09:10-08:00",
+    "edtf:cessation": "2023-02-28T02:09:37Z",
     "edtf:inception": "2023-02-27T12:17:37Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SQ",
@@ -90,13 +90,13 @@
     ],
     "wof:id": 1813323669,
     "wof:involves": [
-      1159286259,
       1763588449,
-      1377564293,
       102527513,
-      102551593
+      102551593,
+      1377564293,
+      1159286259
     ],
-    "wof:lastmodified": 1677616005,
+    "wof:lastmodified": 1677617887,
     "wof:name": "SQ34 (SIN-SFO)",
     "wof:parent_id": 1763588449,
     "wof:placetype": "custom",

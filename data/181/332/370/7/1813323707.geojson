@@ -2,11 +2,11 @@
   "id": 1813323707,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "1970-01-01",
     "date:inception_upper": "1970-01-01",
-    "edtf:cessation": "2023-02-27T10:04:27-08:00",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
@@ -90,13 +90,13 @@
     ],
     "wof:id": 1813323707,
     "wof:involves": [
-      102527513,
       102533795,
       1159285591,
       1763588189,
-      1159289869
+      1159289869,
+      102527513
     ],
-    "wof:lastmodified": 1677616005,
+    "wof:lastmodified": 1677617887,
     "wof:name": "WN2237 (LAX-SFO)",
     "wof:parent_id": 1763588189,
     "wof:placetype": "custom",

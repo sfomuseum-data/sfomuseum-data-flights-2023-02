@@ -2,11 +2,11 @@
   "id": 1813324011,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-02-27",
-    "date:cessation_upper": "2023-02-27",
+    "date:cessation_lower": "2023-02-28",
+    "date:cessation_upper": "2023-02-28",
     "date:inception_lower": "2023-02-28",
     "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "2023-02-27T13:19:57-08:00",
+    "edtf:cessation": "2023-02-28T05:20:00Z",
     "edtf:inception": "2023-02-28T00:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -104,7 +104,7 @@
       1763588149,
       1159285485
     ],
-    "wof:lastmodified": 1677616020,
+    "wof:lastmodified": 1677617903,
     "wof:name": "UA2062 (MSY-SFO)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",
