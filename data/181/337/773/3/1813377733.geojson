@@ -2,10 +2,12 @@
   "id": 1813377733,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-02-28",
-    "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-02-28",
+    "date:cessation_lower": "2023-02-28",
+    "date:cessation_upper": "2023-02-28",
+    "date:inception_lower": "2023-03-01",
+    "date:inception_upper": "2023-03-01",
+    "edtf:cessation": "2023-02-28T15:12:06-08:00",
+    "edtf:inception": "2023-03-01T02:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -139.40440999999998,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618102,
     "lbl:longitude": -122.38769,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230228-A-ACA-3551",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N78540",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "28148236",
+      "swim:gufi": "KO20641400"
+    },
     "wof:country": "US",
     "wof:created": 1677705202,
     "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1813377733,
     "wof:involves": [
-      102527513,
-      102532929,
       1159285413,
       1763588285,
-      1159283597
+      1159283597,
+      1159289871,
+      102527513,
+      102532929
     ],
-    "wof:lastmodified": 1677705202,
+    "wof:lastmodified": 1677706270,
     "wof:name": "UA1288 (OGG-SFO)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",

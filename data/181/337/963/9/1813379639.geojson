@@ -2,10 +2,12 @@
   "id": 1813379639,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-02-28",
-    "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-02-28",
+    "date:cessation_lower": "2023-02-28",
+    "date:cessation_upper": "2023-02-28",
+    "date:inception_lower": "2023-03-01",
+    "date:inception_upper": "2023-03-01",
+    "edtf:cessation": "2023-02-28T03:06:30Z",
+    "edtf:inception": "2023-03-01T02:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:base_flight_id": "20230228-D-AAL-7512",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N566AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "28146885"
+    },
     "wof:country": "US",
     "wof:created": 1677705676,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1813379639,
     "wof:involves": [
+      1159289871,
       102527209,
       102527513,
       1159283813,
       1763588139,
       1159283849
     ],
-    "wof:lastmodified": 1677705676,
+    "wof:lastmodified": 1677706277,
     "wof:name": "AS686 (SFO-LAS)",
     "wof:parent_id": 1763588139,
     "wof:placetype": "custom",

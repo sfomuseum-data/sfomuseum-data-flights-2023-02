@@ -2,10 +2,12 @@
   "id": 1813378971,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-02-28",
-    "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-02-28",
+    "date:cessation_lower": "2023-02-28",
+    "date:cessation_upper": "2023-02-28",
+    "date:inception_lower": "2023-03-01",
+    "date:inception_upper": "2023-03-01",
+    "edtf:cessation": "2023-02-28T16:43:00Z",
+    "edtf:inception": "2023-02-28T22:23:39-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "ACA",
     "icao:base_airline": "AVA",
     "lbl:latitude": 37.618249,
     "lbl:longitude": -122.381477,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555307,
     "sfomuseum:base_flight_id": "20230228-D-AVA-6922",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CGEKX",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "28171612",
+      "swim:gufi": "KO42857300"
+    },
     "wof:country": "US",
     "wof:created": 1677705509,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -90,9 +104,10 @@
       102527513,
       1159283597,
       1763588153,
-      1159285749
+      1159285749,
+      1528104575
     ],
-    "wof:lastmodified": 1677705509,
+    "wof:lastmodified": 1677706276,
     "wof:name": "AC563 (SFO-YVR)",
     "wof:parent_id": 1763588153,
     "wof:placetype": "custom",

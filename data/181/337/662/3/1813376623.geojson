@@ -2,10 +2,12 @@
   "id": 1813376623,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-02-28",
-    "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-02-28",
+    "date:cessation_lower": "2023-03-01",
+    "date:cessation_upper": "2023-03-01",
+    "date:inception_lower": "2023-03-01",
+    "date:inception_upper": "2023-03-01",
+    "edtf:cessation": "2023-03-01T06:50:28Z",
+    "edtf:inception": "2023-03-01T05:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.614645,
     "lbl:longitude": -122.382263,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230228-A-KLM-5256",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N368NB",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "28153697",
+      "swim:gufi": "KL17701400"
+    },
     "wof:country": "US",
     "wof:created": 1677704922,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -90,9 +104,10 @@
       102533795,
       1159284261,
       1763588253,
-      1159284613
+      1159284613,
+      1159289407
     ],
-    "wof:lastmodified": 1677704922,
+    "wof:lastmodified": 1677706262,
     "wof:name": "DL2985 (LAX-SFO)",
     "wof:parent_id": 1763588253,
     "wof:placetype": "custom",

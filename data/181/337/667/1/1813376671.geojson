@@ -2,10 +2,12 @@
   "id": 1813376671,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-02-28",
-    "date:inception_upper": "2023-02-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-02-28",
+    "date:cessation_lower": "2023-02-28",
+    "date:cessation_upper": "2023-02-28",
+    "date:inception_lower": "2023-03-01",
+    "date:inception_upper": "2023-03-01",
+    "edtf:cessation": "2023-02-28T11:42:08-08:00",
+    "edtf:inception": "2023-03-01T02:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2023-02-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.602067,
     "geom:longitude": -122.484166,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532251,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N663DN",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KS01253400"
+    },
     "wof:country": "US",
     "wof:created": 1677704935,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -45,12 +57,12 @@
     ],
     "wof:id": 1813376671,
     "wof:involves": [
-      102527513,
       102532251,
       1159284261,
-      -1
+      1159289939,
+      102527513
     ],
-    "wof:lastmodified": 1677704935,
+    "wof:lastmodified": 1677706263,
     "wof:name": "DL8844 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
