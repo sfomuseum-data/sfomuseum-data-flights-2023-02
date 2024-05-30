@@ -40,6 +40,7 @@
     "wof:geomhash": "75c5706ba72cddd7f95f840531183522",
     "wof:hierarchy": [
       {
+        "custom_id": 1813183817,
         "flight_id": 1813183817
       }
     ],
@@ -50,11 +51,13 @@
       1159286475,
       -1
     ],
-    "wof:lastmodified": 1676219085,
+    "wof:lastmodified": 1717042987,
     "wof:name": "LX42 (SFO-ZRH)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

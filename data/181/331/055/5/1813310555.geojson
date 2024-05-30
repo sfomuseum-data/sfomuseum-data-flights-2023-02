@@ -48,6 +48,7 @@
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
+        "custom_id": 1813310555,
         "flight_id": 1813310555
       }
     ],
@@ -58,11 +59,13 @@
       1159285413,
       1159292085
     ],
-    "wof:lastmodified": 1677698196,
+    "wof:lastmodified": 1717042990,
     "wof:name": "UA8123 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

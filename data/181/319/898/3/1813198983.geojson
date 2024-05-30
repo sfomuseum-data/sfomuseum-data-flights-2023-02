@@ -40,6 +40,7 @@
     "wof:geomhash": "ac29143dee46faf8dc4d82fa5cfc7601",
     "wof:hierarchy": [
       {
+        "custom_id": 1813198983,
         "flight_id": 1813198983
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1676391802,
+    "wof:lastmodified": 1717042990,
     "wof:name": "DL390 (SFO-EUG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

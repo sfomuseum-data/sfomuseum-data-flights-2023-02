@@ -48,6 +48,7 @@
     "wof:geomhash": "02eb21027b428b31b3a49fca7e3fb60f",
     "wof:hierarchy": [
       {
+        "custom_id": 1797192353,
         "flight_id": 1797192353
       }
     ],
@@ -58,11 +59,13 @@
       1159289995,
       102527671
     ],
-    "wof:lastmodified": 1675441759,
+    "wof:lastmodified": 1717042995,
     "wof:name": "KE9033 (SFO-BFI)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

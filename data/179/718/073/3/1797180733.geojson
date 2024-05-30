@@ -45,6 +45,7 @@
     "wof:geomhash": "865973335526f09b753756c305bf4946",
     "wof:hierarchy": [
       {
+        "custom_id": 1797180733,
         "flight_id": 1797180733
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283875
     ],
-    "wof:lastmodified": 1675353835,
+    "wof:lastmodified": 1717042997,
     "wof:name": "NH7373 (DFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

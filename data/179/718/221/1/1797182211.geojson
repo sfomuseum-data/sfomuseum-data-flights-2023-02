@@ -40,6 +40,7 @@
     "wof:geomhash": "579cc6c0d5668ba584a946b357aa3191",
     "wof:hierarchy": [
       {
+        "custom_id": 1797182211,
         "flight_id": 1797182211
       }
     ],
@@ -50,11 +51,13 @@
       1159285591,
       -1
     ],
-    "wof:lastmodified": 1675354208,
+    "wof:lastmodified": 1717042985,
     "wof:name": "WN2373 (BUR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

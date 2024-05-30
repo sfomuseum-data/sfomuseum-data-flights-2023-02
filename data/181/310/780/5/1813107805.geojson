@@ -48,6 +48,7 @@
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
     "wof:hierarchy": [
       {
+        "custom_id": 1813107805,
         "flight_id": 1813107805
       }
     ],
@@ -58,11 +59,13 @@
       1159289421,
       102533997
     ],
-    "wof:lastmodified": 1675614444,
+    "wof:lastmodified": 1717042989,
     "wof:name": "HA89 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

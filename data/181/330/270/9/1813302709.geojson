@@ -48,6 +48,7 @@
     "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
     "wof:hierarchy": [
       {
+        "custom_id": 1813302709,
         "flight_id": 1813302709
       }
     ],
@@ -58,11 +59,13 @@
       102531131,
       1159284261
     ],
-    "wof:lastmodified": 1677700417,
+    "wof:lastmodified": 1717042992,
     "wof:name": "DL8933 (MSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -48,6 +48,7 @@
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
+        "custom_id": 1813344349,
         "flight_id": 1813344349
       }
     ],
@@ -58,11 +59,13 @@
       102532251,
       1159285413
     ],
-    "wof:lastmodified": 1677637025,
+    "wof:lastmodified": 1717042993,
     "wof:name": "UA2747 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

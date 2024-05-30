@@ -45,6 +45,7 @@
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
     "wof:hierarchy": [
       {
+        "custom_id": 1813310119,
         "flight_id": 1813310119
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283605
     ],
-    "wof:lastmodified": 1677548111,
+    "wof:lastmodified": 1717042990,
     "wof:name": "UA1141 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

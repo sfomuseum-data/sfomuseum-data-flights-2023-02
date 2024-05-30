@@ -52,6 +52,7 @@
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
+        "custom_id": 1813322859,
         "flight_id": 1813322859
       }
     ],
@@ -62,11 +63,13 @@
       102527513,
       102532251
     ],
-    "wof:lastmodified": 1677626452,
+    "wof:lastmodified": 1717042991,
     "wof:name": "DL8940 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

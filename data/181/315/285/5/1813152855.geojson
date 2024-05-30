@@ -45,6 +45,7 @@
     "wof:geomhash": "ad7dd7ece479a882a3440fb19be6ff4c",
     "wof:hierarchy": [
       {
+        "custom_id": 1813152855,
         "flight_id": 1813152855
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1763699293
     ],
-    "wof:lastmodified": 1675873406,
+    "wof:lastmodified": 1717042986,
     "wof:name": "KL2057 (SFO-CDG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

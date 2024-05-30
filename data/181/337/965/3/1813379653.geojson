@@ -48,6 +48,7 @@
     "wof:geomhash": "8933d78fb39ee159acf7eb0738f97ef5",
     "wof:hierarchy": [
       {
+        "custom_id": 1813379653,
         "flight_id": 1813379653
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       1159283813
     ],
-    "wof:lastmodified": 1677706277,
+    "wof:lastmodified": 1717042998,
     "wof:name": "AS9801 (SFO-OAK)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

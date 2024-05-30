@@ -48,6 +48,7 @@
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
     "wof:hierarchy": [
       {
+        "custom_id": 1813312325,
         "flight_id": 1813312325
       }
     ],
@@ -58,11 +59,13 @@
       1377564285,
       102531131
     ],
-    "wof:lastmodified": 1677698205,
+    "wof:lastmodified": 1717042992,
     "wof:name": "DL1081 (SFO-MSP)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
